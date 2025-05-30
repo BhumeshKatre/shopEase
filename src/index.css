@@ -19,4 +19,10 @@
 body{
   width:100vw;
   overflow-x:none;
+  background: 	#F1F2F4 ;
+}
+
+
+body::-webkit-scrollbar {
+  display: none; 
 }

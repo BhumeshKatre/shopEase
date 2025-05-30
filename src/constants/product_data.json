@@ -1,0 +1,1482 @@
+[
+  {
+    "id": "PROD1000",
+    "title": "Realme Model 957 (Gray, 8GB RAM, 128GB Storage)",
+    "brand": "Realme",
+    "category": "Mobiles",
+    "price": {
+      "mrp": 84970,
+      "discounted_price": 79451,
+      "discount_percent": 6.5,
+      "currency": "INR"
+    },
+    "availability": {
+      "in_stock": true,
+      "estimated_delivery": "5-10 days"
+    },
+    "ratings": {
+      "average": 4.6,
+      "total_ratings": 1250,
+      "total_reviews": 750
+    },
+    "images": [
+      "https://example.com/images/realme_957_1.jpg",
+      "https://example.com/images/realme_957_2.jpg"
+    ],
+    "description": "Realme Model 957 is a high-performance smartphone with excellent display and battery life.",
+    "highlights": [
+      "8 GB RAM | 128 GB ROM",
+      "6.5 inch Full HD+ Display",
+      "64MP Rear Camera | 16MP Front Camera",
+      "5000 mAh Battery",
+      "Exynos 2200 Processor"
+    ],
+    "specifications": {
+      "general": {
+        "model_name": "Model 957",
+        "color": "Gray",
+        "sim_type": "Dual Sim",
+        "touchscreen": true
+      },
+      "display": {
+        "size": "6.5 inch",
+        "resolution": "2400 x 1080 Pixels",
+        "type": "AMOLED"
+      },
+      "camera": {
+        "rear_camera": "64MP",
+        "front_camera": "16MP"
+      },
+      "battery": {
+        "capacity": "5000 mAh",
+        "fast_charging": true
+      },
+      "processor": {
+        "type": "MediaTek Dimensity 9200",
+        "cores": "Octa Core"
+      },
+      "os": "Android 14"
+    },
+    "reviews": [
+      {
+        "username": "user4112",
+        "rating": 3,
+        "comment": "Good product, worth the price.",
+        "date": "2025-05-20"
+      }
+    ],
+    "warranty": "1 Year Manufacturer Warranty",
+    "return_policy": "10 Days Replacement Policy",
+    "seller": {
+      "name": "GadgetWorld",
+      "rating": 4.3,
+      "total_ratings": 4776
+    }
+  },
+  {
+    "id": "PROD1001",
+    "title": "Oppo Model 508 (Black, 8GB RAM, 128GB Storage)",
+    "brand": "Oppo",
+    "category": "Mobiles",
+    "price": {
+      "mrp": 47889,
+      "discounted_price": 44886,
+      "discount_percent": 6.27,
+      "currency": "INR"
+    },
+    "availability": {
+      "in_stock": false,
+      "estimated_delivery": "7-10 days"
+    },
+    "ratings": {
+      "average": 3.9,
+      "total_ratings": 1512,
+      "total_reviews": 629
+    },
+    "images": [
+      "https://example.com/images/oppo_508_1.jpg",
+      "https://example.com/images/oppo_508_2.jpg"
+    ],
+    "description": "Oppo Model 508 is a high-performance smartphone with excellent display and battery life.",
+    "highlights": [
+      "8 GB RAM | 128 GB ROM",
+      "6.5 inch Full HD+ Display",
+      "64MP Rear Camera | 16MP Front Camera",
+      "5000 mAh Battery",
+      "Snapdragon 8 Gen 3 Processor"
+    ],
+    "specifications": {
+      "general": {
+        "model_name": "Model 508",
+        "color": "Black",
+        "sim_type": "Dual Sim",
+        "touchscreen": true
+      },
+      "display": {
+        "size": "6.5 inch",
+        "resolution": "2400 x 1080 Pixels",
+        "type": "AMOLED"
+      },
+      "camera": {
+        "rear_camera": "64MP",
+        "front_camera": "16MP"
+      },
+      "battery": {
+        "capacity": "5000 mAh",
+        "fast_charging": true
+      },
+      "processor": {
+        "type": "Snapdragon 8 Gen 3",
+        "cores": "Octa Core"
+      },
+      "os": "Windows 11"
+    },
+    "reviews": [
+      {
+        "username": "user8476",
+        "rating": 4,
+        "comment": "Good product, worth the price.",
+        "date": "2025-05-03"
+      }
+    ],
+    "warranty": "1 Year Manufacturer Warranty",
+    "return_policy": "10 Days Replacement Policy",
+    "seller": {
+      "name": "TechBazaar",
+      "rating": 4.2,
+      "total_ratings": 1543
+    }
+  },
+  {
+    "id": "PROD1002",
+    "title": "Xiaomi Model 380 (White, 8GB RAM, 128GB Storage)",
+    "brand": "Xiaomi",
+    "category": "Mobiles",
+    "price": {
+      "mrp": 52877,
+      "discounted_price": 48325,
+      "discount_percent": 8.61,
+      "currency": "INR"
+    },
+    "availability": {
+      "in_stock": true,
+      "estimated_delivery": "5-10 days"
+    },
+    "ratings": {
+      "average": 4.3,
+      "total_ratings": 2623,
+      "total_reviews": 487
+    },
+    "images": [
+      "https://example.com/images/xiaomi_380_1.jpg",
+      "https://example.com/images/xiaomi_380_2.jpg"
+    ],
+    "description": "Xiaomi Model 380 is a high-performance smartphone with excellent display and battery life.",
+    "highlights": [
+      "8 GB RAM | 128 GB ROM",
+      "6.5 inch Full HD+ Display",
+      "64MP Rear Camera | 16MP Front Camera",
+      "5000 mAh Battery",
+      "Snapdragon 8 Gen 3 Processor"
+    ],
+    "specifications": {
+      "general": {
+        "model_name": "Model 380",
+        "color": "White",
+        "sim_type": "Dual Sim",
+        "touchscreen": true
+      },
+      "display": {
+        "size": "6.5 inch",
+        "resolution": "2400 x 1080 Pixels",
+        "type": "AMOLED"
+      },
+      "camera": {
+        "rear_camera": "64MP",
+        "front_camera": "16MP"
+      },
+      "battery": {
+        "capacity": "5000 mAh",
+        "fast_charging": true
+      },
+      "processor": {
+        "type": "Apple A17 Bionic",
+        "cores": "Octa Core"
+      },
+      "os": "Android 13"
+    },
+    "reviews": [
+      {
+        "username": "user9509",
+        "rating": 4,
+        "comment": "Good product, worth the price.",
+        "date": "2025-05-11"
+      }
+    ],
+    "warranty": "1 Year Manufacturer Warranty",
+    "return_policy": "10 Days Replacement Policy",
+    "seller": {
+      "name": "BestElectronics",
+      "rating": 3.9,
+      "total_ratings": 1688
+    }
+  },
+  {
+    "id": "PROD1003",
+    "title": "Samsung Model 877 (Green, 8GB RAM, 128GB Storage)",
+    "brand": "Samsung",
+    "category": "Mobiles",
+    "price": {
+      "mrp": 66653,
+      "discounted_price": 61874,
+      "discount_percent": 7.17,
+      "currency": "INR"
+    },
+    "availability": {
+      "in_stock": true,
+      "estimated_delivery": "7-10 days"
+    },
+    "ratings": {
+      "average": 4.5,
+      "total_ratings": 9354,
+      "total_reviews": 461
+    },
+    "images": [
+      "https://example.com/images/samsung_877_1.jpg",
+      "https://example.com/images/samsung_877_2.jpg"
+    ],
+    "description": "Samsung Model 877 is a high-performance smartphone with excellent display and battery life.",
+    "highlights": [
+      "8 GB RAM | 128 GB ROM",
+      "6.5 inch Full HD+ Display",
+      "64MP Rear Camera | 16MP Front Camera",
+      "5000 mAh Battery",
+      "MediaTek Dimensity 9200 Processor"
+    ],
+    "specifications": {
+      "general": {
+        "model_name": "Model 877",
+        "color": "Green",
+        "sim_type": "Dual Sim",
+        "touchscreen": true
+      },
+      "display": {
+        "size": "6.5 inch",
+        "resolution": "2400 x 1080 Pixels",
+        "type": "AMOLED"
+      },
+      "camera": {
+        "rear_camera": "64MP",
+        "front_camera": "16MP"
+      },
+      "battery": {
+        "capacity": "5000 mAh",
+        "fast_charging": true
+      },
+      "processor": {
+        "type": "Apple A17 Bionic",
+        "cores": "Octa Core"
+      },
+      "os": "Windows 11"
+    },
+    "reviews": [
+      {
+        "username": "user9026",
+        "rating": 3,
+        "comment": "Good product, worth the price.",
+        "date": "2025-05-25"
+      }
+    ],
+    "warranty": "1 Year Manufacturer Warranty",
+    "return_policy": "10 Days Replacement Policy",
+    "seller": {
+      "name": "GadgetWorld",
+      "rating": 4.0,
+      "total_ratings": 2676
+    }
+  },
+  {
+    "id": "PROD1004",
+    "title": "Samsung Model 823 (White, 8GB RAM, 128GB Storage)",
+    "brand": "Samsung",
+    "category": "Mobiles",
+    "price": {
+      "mrp": 80854,
+      "discounted_price": 70196,
+      "discount_percent": 13.18,
+      "currency": "INR"
+    },
+    "availability": {
+      "in_stock": true,
+      "estimated_delivery": "6-10 days"
+    },
+    "ratings": {
+      "average": 4.7,
+      "total_ratings": 9050,
+      "total_reviews": 428
+    },
+    "images": [
+      "https://example.com/images/samsung_823_1.jpg",
+      "https://example.com/images/samsung_823_2.jpg"
+    ],
+    "description": "Samsung Model 823 is a high-performance smartphone with excellent display and battery life.",
+    "highlights": [
+      "8 GB RAM | 128 GB ROM",
+      "6.5 inch Full HD+ Display",
+      "64MP Rear Camera | 16MP Front Camera",
+      "5000 mAh Battery",
+      "Snapdragon 8 Gen 3 Processor"
+    ],
+    "specifications": {
+      "general": {
+        "model_name": "Model 823",
+        "color": "White",
+        "sim_type": "Dual Sim",
+        "touchscreen": true
+      },
+      "display": {
+        "size": "6.5 inch",
+        "resolution": "2400 x 1080 Pixels",
+        "type": "AMOLED"
+      },
+      "camera": {
+        "rear_camera": "64MP",
+        "front_camera": "16MP"
+      },
+      "battery": {
+        "capacity": "5000 mAh",
+        "fast_charging": true
+      },
+      "processor": {
+        "type": "Apple A17 Bionic",
+        "cores": "Octa Core"
+      },
+      "os": "Windows 11"
+    },
+    "reviews": [
+      {
+        "username": "user2113",
+        "rating": 3,
+        "comment": "Good product, worth the price.",
+        "date": "2025-05-16"
+      }
+    ],
+    "warranty": "1 Year Manufacturer Warranty",
+    "return_policy": "10 Days Replacement Policy",
+    "seller": {
+      "name": "Official Store",
+      "rating": 4.3,
+      "total_ratings": 977
+    }
+  },
+  {
+    "id": "PROD1005",
+    "title": "Vivo Model 257 (Purple, 8GB RAM, 128GB Storage)",
+    "brand": "Vivo",
+    "category": "Mobiles",
+    "price": {
+      "mrp": 63034,
+      "discounted_price": 56523,
+      "discount_percent": 10.33,
+      "currency": "INR"
+    },
+    "availability": {
+      "in_stock": true,
+      "estimated_delivery": "2-10 days"
+    },
+    "ratings": {
+      "average": 4.1,
+      "total_ratings": 5277,
+      "total_reviews": 223
+    },
+    "images": [
+      "https://example.com/images/vivo_257_1.jpg",
+      "https://example.com/images/vivo_257_2.jpg"
+    ],
+    "description": "Vivo Model 257 is a high-performance smartphone with excellent display and battery life.",
+    "highlights": [
+      "8 GB RAM | 128 GB ROM",
+      "6.5 inch Full HD+ Display",
+      "64MP Rear Camera | 16MP Front Camera",
+      "5000 mAh Battery",
+      "Exynos 2200 Processor"
+    ],
+    "specifications": {
+      "general": {
+        "model_name": "Model 257",
+        "color": "Purple",
+        "sim_type": "Dual Sim",
+        "touchscreen": true
+      },
+      "display": {
+        "size": "6.5 inch",
+        "resolution": "2400 x 1080 Pixels",
+        "type": "AMOLED"
+      },
+      "camera": {
+        "rear_camera": "64MP",
+        "front_camera": "16MP"
+      },
+      "battery": {
+        "capacity": "5000 mAh",
+        "fast_charging": true
+      },
+      "processor": {
+        "type": "MediaTek Dimensity 9200",
+        "cores": "Octa Core"
+      },
+      "os": "Android 14"
+    },
+    "reviews": [
+      {
+        "username": "user9884",
+        "rating": 3,
+        "comment": "Good product, worth the price.",
+        "date": "2025-05-01"
+      }
+    ],
+    "warranty": "1 Year Manufacturer Warranty",
+    "return_policy": "10 Days Replacement Policy",
+    "seller": {
+      "name": "TechBazaar",
+      "rating": 4.4,
+      "total_ratings": 4056
+    }
+  },
+  {
+    "id": "PROD1006",
+    "title": "Apple Model 496 (Blue, 8GB RAM, 128GB Storage)",
+    "brand": "Apple",
+    "category": "Mobiles",
+    "price": {
+      "mrp": 60431,
+      "discounted_price": 52976,
+      "discount_percent": 12.34,
+      "currency": "INR"
+    },
+    "availability": {
+      "in_stock": true,
+      "estimated_delivery": "3-10 days"
+    },
+    "ratings": {
+      "average": 4.1,
+      "total_ratings": 9662,
+      "total_reviews": 331
+    },
+    "images": [
+      "https://example.com/images/apple_496_1.jpg",
+      "https://example.com/images/apple_496_2.jpg"
+    ],
+    "description": "Apple Model 496 is a high-performance smartphone with excellent display and battery life.",
+    "highlights": [
+      "8 GB RAM | 128 GB ROM",
+      "6.5 inch Full HD+ Display",
+      "64MP Rear Camera | 16MP Front Camera",
+      "5000 mAh Battery",
+      "MediaTek Dimensity 9200 Processor"
+    ],
+    "specifications": {
+      "general": {
+        "model_name": "Model 496",
+        "color": "Blue",
+        "sim_type": "Dual Sim",
+        "touchscreen": true
+      },
+      "display": {
+        "size": "6.5 inch",
+        "resolution": "2400 x 1080 Pixels",
+        "type": "AMOLED"
+      },
+      "camera": {
+        "rear_camera": "64MP",
+        "front_camera": "16MP"
+      },
+      "battery": {
+        "capacity": "5000 mAh",
+        "fast_charging": true
+      },
+      "processor": {
+        "type": "Exynos 2200",
+        "cores": "Octa Core"
+      },
+      "os": "iOS 17"
+    },
+    "reviews": [
+      {
+        "username": "user4618",
+        "rating": 3,
+        "comment": "Good product, worth the price.",
+        "date": "2025-05-16"
+      }
+    ],
+    "warranty": "1 Year Manufacturer Warranty",
+    "return_policy": "10 Days Replacement Policy",
+    "seller": {
+      "name": "Official Store",
+      "rating": 3.6,
+      "total_ratings": 3498
+    }
+  },
+  {
+    "id": "PROD1007",
+    "title": "Oppo Model 364 (Purple, 8GB RAM, 128GB Storage)",
+    "brand": "Oppo",
+    "category": "Mobiles",
+    "price": {
+      "mrp": 36389,
+      "discounted_price": 30972,
+      "discount_percent": 14.89,
+      "currency": "INR"
+    },
+    "availability": {
+      "in_stock": false,
+      "estimated_delivery": "2-10 days"
+    },
+    "ratings": {
+      "average": 4.9,
+      "total_ratings": 4730,
+      "total_reviews": 980
+    },
+    "images": [
+      "https://example.com/images/oppo_364_1.jpg",
+      "https://example.com/images/oppo_364_2.jpg"
+    ],
+    "description": "Oppo Model 364 is a high-performance smartphone with excellent display and battery life.",
+    "highlights": [
+      "8 GB RAM | 128 GB ROM",
+      "6.5 inch Full HD+ Display",
+      "64MP Rear Camera | 16MP Front Camera",
+      "5000 mAh Battery",
+      "MediaTek Dimensity 9200 Processor"
+    ],
+    "specifications": {
+      "general": {
+        "model_name": "Model 364",
+        "color": "Purple",
+        "sim_type": "Dual Sim",
+        "touchscreen": true
+      },
+      "display": {
+        "size": "6.5 inch",
+        "resolution": "2400 x 1080 Pixels",
+        "type": "AMOLED"
+      },
+      "camera": {
+        "rear_camera": "64MP",
+        "front_camera": "16MP"
+      },
+      "battery": {
+        "capacity": "5000 mAh",
+        "fast_charging": true
+      },
+      "processor": {
+        "type": "MediaTek Dimensity 9200",
+        "cores": "Octa Core"
+      },
+      "os": "Windows 11"
+    },
+    "reviews": [
+      {
+        "username": "user6727",
+        "rating": 3,
+        "comment": "Good product, worth the price.",
+        "date": "2025-05-06"
+      }
+    ],
+    "warranty": "1 Year Manufacturer Warranty",
+    "return_policy": "10 Days Replacement Policy",
+    "seller": {
+      "name": "GadgetWorld",
+      "rating": 4.5,
+      "total_ratings": 1470
+    }
+  },
+  {
+    "id": "PROD1008",
+    "title": "Oppo Model 419 (Red, 8GB RAM, 128GB Storage)",
+    "brand": "Oppo",
+    "category": "Mobiles",
+    "price": {
+      "mrp": 89088,
+      "discounted_price": 80543,
+      "discount_percent": 9.59,
+      "currency": "INR"
+    },
+    "availability": {
+      "in_stock": true,
+      "estimated_delivery": "7-10 days"
+    },
+    "ratings": {
+      "average": 3.5,
+      "total_ratings": 2919,
+      "total_reviews": 283
+    },
+    "images": [
+      "https://example.com/images/oppo_419_1.jpg",
+      "https://example.com/images/oppo_419_2.jpg"
+    ],
+    "description": "Oppo Model 419 is a high-performance smartphone with excellent display and battery life.",
+    "highlights": [
+      "8 GB RAM | 128 GB ROM",
+      "6.5 inch Full HD+ Display",
+      "64MP Rear Camera | 16MP Front Camera",
+      "5000 mAh Battery",
+      "Snapdragon 8 Gen 3 Processor"
+    ],
+    "specifications": {
+      "general": {
+        "model_name": "Model 419",
+        "color": "Red",
+        "sim_type": "Dual Sim",
+        "touchscreen": true
+      },
+      "display": {
+        "size": "6.5 inch",
+        "resolution": "2400 x 1080 Pixels",
+        "type": "AMOLED"
+      },
+      "camera": {
+        "rear_camera": "64MP",
+        "front_camera": "16MP"
+      },
+      "battery": {
+        "capacity": "5000 mAh",
+        "fast_charging": true
+      },
+      "processor": {
+        "type": "Snapdragon 8 Gen 3",
+        "cores": "Octa Core"
+      },
+      "os": "Android 14"
+    },
+    "reviews": [
+      {
+        "username": "user2707",
+        "rating": 3,
+        "comment": "Good product, worth the price.",
+        "date": "2025-05-18"
+      }
+    ],
+    "warranty": "1 Year Manufacturer Warranty",
+    "return_policy": "10 Days Replacement Policy",
+    "seller": {
+      "name": "Official Store",
+      "rating": 4.6,
+      "total_ratings": 3818
+    }
+  },
+  {
+    "id": "PROD1009",
+    "title": "Motorola Model 717 (Purple, 8GB RAM, 128GB Storage)",
+    "brand": "Motorola",
+    "category": "Mobiles",
+    "price": {
+      "mrp": 44242,
+      "discounted_price": 41874,
+      "discount_percent": 5.35,
+      "currency": "INR"
+    },
+    "availability": {
+      "in_stock": false,
+      "estimated_delivery": "6-10 days"
+    },
+    "ratings": {
+      "average": 4.9,
+      "total_ratings": 2595,
+      "total_reviews": 253
+    },
+    "images": [
+      "https://example.com/images/motorola_717_1.jpg",
+      "https://example.com/images/motorola_717_2.jpg"
+    ],
+    "description": "Motorola Model 717 is a high-performance smartphone with excellent display and battery life.",
+    "highlights": [
+      "8 GB RAM | 128 GB ROM",
+      "6.5 inch Full HD+ Display",
+      "64MP Rear Camera | 16MP Front Camera",
+      "5000 mAh Battery",
+      "MediaTek Dimensity 9200 Processor"
+    ],
+    "specifications": {
+      "general": {
+        "model_name": "Model 717",
+        "color": "Purple",
+        "sim_type": "Dual Sim",
+        "touchscreen": true
+      },
+      "display": {
+        "size": "6.5 inch",
+        "resolution": "2400 x 1080 Pixels",
+        "type": "AMOLED"
+      },
+      "camera": {
+        "rear_camera": "64MP",
+        "front_camera": "16MP"
+      },
+      "battery": {
+        "capacity": "5000 mAh",
+        "fast_charging": true
+      },
+      "processor": {
+        "type": "MediaTek Dimensity 9200",
+        "cores": "Octa Core"
+      },
+      "os": "Windows 11"
+    },
+    "reviews": [
+      {
+        "username": "user6998",
+        "rating": 4,
+        "comment": "Good product, worth the price.",
+        "date": "2025-05-07"
+      }
+    ],
+    "warranty": "1 Year Manufacturer Warranty",
+    "return_policy": "10 Days Replacement Policy",
+    "seller": {
+      "name": "Official Store",
+      "rating": 4.0,
+      "total_ratings": 3149
+    }
+  },
+  {
+    "id": "PROD1010",
+    "title": "Apple Model 701 (Black, 8GB RAM, 128GB Storage)",
+    "brand": "Apple",
+    "category": "Mobiles",
+    "price": {
+      "mrp": 34690,
+      "discounted_price": 32567,
+      "discount_percent": 6.12,
+      "currency": "INR"
+    },
+    "availability": {
+      "in_stock": true,
+      "estimated_delivery": "6-10 days"
+    },
+    "ratings": {
+      "average": 4.0,
+      "total_ratings": 5135,
+      "total_reviews": 320
+    },
+    "images": [
+      "https://example.com/images/apple_701_1.jpg",
+      "https://example.com/images/apple_701_2.jpg"
+    ],
+    "description": "Apple Model 701 is a high-performance smartphone with excellent display and battery life.",
+    "highlights": [
+      "8 GB RAM | 128 GB ROM",
+      "6.5 inch Full HD+ Display",
+      "64MP Rear Camera | 16MP Front Camera",
+      "5000 mAh Battery",
+      "MediaTek Dimensity 9200 Processor"
+    ],
+    "specifications": {
+      "general": {
+        "model_name": "Model 701",
+        "color": "Black",
+        "sim_type": "Dual Sim",
+        "touchscreen": true
+      },
+      "display": {
+        "size": "6.5 inch",
+        "resolution": "2400 x 1080 Pixels",
+        "type": "AMOLED"
+      },
+      "camera": {
+        "rear_camera": "64MP",
+        "front_camera": "16MP"
+      },
+      "battery": {
+        "capacity": "5000 mAh",
+        "fast_charging": true
+      },
+      "processor": {
+        "type": "MediaTek Dimensity 9200",
+        "cores": "Octa Core"
+      },
+      "os": "iOS 17"
+    },
+    "reviews": [
+      {
+        "username": "user1407",
+        "rating": 4,
+        "comment": "Good product, worth the price.",
+        "date": "2025-05-02"
+      }
+    ],
+    "warranty": "1 Year Manufacturer Warranty",
+    "return_policy": "10 Days Replacement Policy",
+    "seller": {
+      "name": "BestElectronics",
+      "rating": 4.8,
+      "total_ratings": 3181
+    }
+  },
+  {
+    "id": "PROD1011",
+    "title": "Realme Model 139 (Blue, 8GB RAM, 128GB Storage)",
+    "brand": "Realme",
+    "category": "Mobiles",
+    "price": {
+      "mrp": 40366,
+      "discounted_price": 36162,
+      "discount_percent": 10.41,
+      "currency": "INR"
+    },
+    "availability": {
+      "in_stock": true,
+      "estimated_delivery": "7-10 days"
+    },
+    "ratings": {
+      "average": 4.2,
+      "total_ratings": 1053,
+      "total_reviews": 765
+    },
+    "images": [
+      "https://example.com/images/realme_139_1.jpg",
+      "https://example.com/images/realme_139_2.jpg"
+    ],
+    "description": "Realme Model 139 is a high-performance smartphone with excellent display and battery life.",
+    "highlights": [
+      "8 GB RAM | 128 GB ROM",
+      "6.5 inch Full HD+ Display",
+      "64MP Rear Camera | 16MP Front Camera",
+      "5000 mAh Battery",
+      "Exynos 2200 Processor"
+    ],
+    "specifications": {
+      "general": {
+        "model_name": "Model 139",
+        "color": "Blue",
+        "sim_type": "Dual Sim",
+        "touchscreen": true
+      },
+      "display": {
+        "size": "6.5 inch",
+        "resolution": "2400 x 1080 Pixels",
+        "type": "AMOLED"
+      },
+      "camera": {
+        "rear_camera": "64MP",
+        "front_camera": "16MP"
+      },
+      "battery": {
+        "capacity": "5000 mAh",
+        "fast_charging": true
+      },
+      "processor": {
+        "type": "Snapdragon 8 Gen 3",
+        "cores": "Octa Core"
+      },
+      "os": "Android 14"
+    },
+    "reviews": [
+      {
+        "username": "user3109",
+        "rating": 5,
+        "comment": "Good product, worth the price.",
+        "date": "2025-05-14"
+      }
+    ],
+    "warranty": "1 Year Manufacturer Warranty",
+    "return_policy": "10 Days Replacement Policy",
+    "seller": {
+      "name": "TechBazaar",
+      "rating": 3.5,
+      "total_ratings": 3776
+    }
+  },
+  {
+    "id": "PROD1012",
+    "title": "OnePlus Model 880 (Gray, 8GB RAM, 128GB Storage)",
+    "brand": "OnePlus",
+    "category": "Mobiles",
+    "price": {
+      "mrp": 51211,
+      "discounted_price": 47885,
+      "discount_percent": 6.49,
+      "currency": "INR"
+    },
+    "availability": {
+      "in_stock": true,
+      "estimated_delivery": "3-10 days"
+    },
+    "ratings": {
+      "average": 4.7,
+      "total_ratings": 3610,
+      "total_reviews": 719
+    },
+    "images": [
+      "https://example.com/images/oneplus_880_1.jpg",
+      "https://example.com/images/oneplus_880_2.jpg"
+    ],
+    "description": "OnePlus Model 880 is a high-performance smartphone with excellent display and battery life.",
+    "highlights": [
+      "8 GB RAM | 128 GB ROM",
+      "6.5 inch Full HD+ Display",
+      "64MP Rear Camera | 16MP Front Camera",
+      "5000 mAh Battery",
+      "Exynos 2200 Processor"
+    ],
+    "specifications": {
+      "general": {
+        "model_name": "Model 880",
+        "color": "Gray",
+        "sim_type": "Dual Sim",
+        "touchscreen": true
+      },
+      "display": {
+        "size": "6.5 inch",
+        "resolution": "2400 x 1080 Pixels",
+        "type": "AMOLED"
+      },
+      "camera": {
+        "rear_camera": "64MP",
+        "front_camera": "16MP"
+      },
+      "battery": {
+        "capacity": "5000 mAh",
+        "fast_charging": true
+      },
+      "processor": {
+        "type": "Exynos 2200",
+        "cores": "Octa Core"
+      },
+      "os": "iOS 17"
+    },
+    "reviews": [
+      {
+        "username": "user4822",
+        "rating": 3,
+        "comment": "Good product, worth the price.",
+        "date": "2025-05-06"
+      }
+    ],
+    "warranty": "1 Year Manufacturer Warranty",
+    "return_policy": "10 Days Replacement Policy",
+    "seller": {
+      "name": "Official Store",
+      "rating": 4.5,
+      "total_ratings": 4774
+    }
+  },
+  {
+    "id": "PROD1013",
+    "title": "Samsung Model 383 (Green, 8GB RAM, 128GB Storage)",
+    "brand": "Samsung",
+    "category": "Mobiles",
+    "price": {
+      "mrp": 75307,
+      "discounted_price": 65634,
+      "discount_percent": 12.84,
+      "currency": "INR"
+    },
+    "availability": {
+      "in_stock": false,
+      "estimated_delivery": "7-10 days"
+    },
+    "ratings": {
+      "average": 4.3,
+      "total_ratings": 7812,
+      "total_reviews": 893
+    },
+    "images": [
+      "https://example.com/images/samsung_383_1.jpg",
+      "https://example.com/images/samsung_383_2.jpg"
+    ],
+    "description": "Samsung Model 383 is a high-performance smartphone with excellent display and battery life.",
+    "highlights": [
+      "8 GB RAM | 128 GB ROM",
+      "6.5 inch Full HD+ Display",
+      "64MP Rear Camera | 16MP Front Camera",
+      "5000 mAh Battery",
+      "Snapdragon 8 Gen 3 Processor"
+    ],
+    "specifications": {
+      "general": {
+        "model_name": "Model 383",
+        "color": "Green",
+        "sim_type": "Dual Sim",
+        "touchscreen": true
+      },
+      "display": {
+        "size": "6.5 inch",
+        "resolution": "2400 x 1080 Pixels",
+        "type": "AMOLED"
+      },
+      "camera": {
+        "rear_camera": "64MP",
+        "front_camera": "16MP"
+      },
+      "battery": {
+        "capacity": "5000 mAh",
+        "fast_charging": true
+      },
+      "processor": {
+        "type": "Exynos 2200",
+        "cores": "Octa Core"
+      },
+      "os": "Android 14"
+    },
+    "reviews": [
+      {
+        "username": "user5089",
+        "rating": 4,
+        "comment": "Good product, worth the price.",
+        "date": "2025-05-22"
+      }
+    ],
+    "warranty": "1 Year Manufacturer Warranty",
+    "return_policy": "10 Days Replacement Policy",
+    "seller": {
+      "name": "Official Store",
+      "rating": 3.8,
+      "total_ratings": 2486
+    }
+  },
+  {
+    "id": "PROD1014",
+    "title": "Realme Model 270 (Green, 8GB RAM, 128GB Storage)",
+    "brand": "Realme",
+    "category": "Mobiles",
+    "price": {
+      "mrp": 85819,
+      "discounted_price": 76296,
+      "discount_percent": 11.1,
+      "currency": "INR"
+    },
+    "availability": {
+      "in_stock": false,
+      "estimated_delivery": "6-10 days"
+    },
+    "ratings": {
+      "average": 3.9,
+      "total_ratings": 9526,
+      "total_reviews": 514
+    },
+    "images": [
+      "https://example.com/images/realme_270_1.jpg",
+      "https://example.com/images/realme_270_2.jpg"
+    ],
+    "description": "Realme Model 270 is a high-performance smartphone with excellent display and battery life.",
+    "highlights": [
+      "8 GB RAM | 128 GB ROM",
+      "6.5 inch Full HD+ Display",
+      "64MP Rear Camera | 16MP Front Camera",
+      "5000 mAh Battery",
+      "MediaTek Dimensity 9200 Processor"
+    ],
+    "specifications": {
+      "general": {
+        "model_name": "Model 270",
+        "color": "Green",
+        "sim_type": "Dual Sim",
+        "touchscreen": true
+      },
+      "display": {
+        "size": "6.5 inch",
+        "resolution": "2400 x 1080 Pixels",
+        "type": "AMOLED"
+      },
+      "camera": {
+        "rear_camera": "64MP",
+        "front_camera": "16MP"
+      },
+      "battery": {
+        "capacity": "5000 mAh",
+        "fast_charging": true
+      },
+      "processor": {
+        "type": "Snapdragon 8 Gen 3",
+        "cores": "Octa Core"
+      },
+      "os": "iOS 17"
+    },
+    "reviews": [
+      {
+        "username": "user7528",
+        "rating": 4,
+        "comment": "Good product, worth the price.",
+        "date": "2025-05-19"
+      }
+    ],
+    "warranty": "1 Year Manufacturer Warranty",
+    "return_policy": "10 Days Replacement Policy",
+    "seller": {
+      "name": "BestElectronics",
+      "rating": 4.1,
+      "total_ratings": 4934
+    }
+  },
+  {
+    "id": "PROD1015",
+    "title": "Motorola Model 237 (White, 8GB RAM, 128GB Storage)",
+    "brand": "Motorola",
+    "category": "Mobiles",
+    "price": {
+      "mrp": 67596,
+      "discounted_price": 60454,
+      "discount_percent": 10.57,
+      "currency": "INR"
+    },
+    "availability": {
+      "in_stock": true,
+      "estimated_delivery": "7-10 days"
+    },
+    "ratings": {
+      "average": 3.7,
+      "total_ratings": 7827,
+      "total_reviews": 371
+    },
+    "images": [
+      "https://example.com/images/motorola_237_1.jpg",
+      "https://example.com/images/motorola_237_2.jpg"
+    ],
+    "description": "Motorola Model 237 is a high-performance smartphone with excellent display and battery life.",
+    "highlights": [
+      "8 GB RAM | 128 GB ROM",
+      "6.5 inch Full HD+ Display",
+      "64MP Rear Camera | 16MP Front Camera",
+      "5000 mAh Battery",
+      "Snapdragon 8 Gen 3 Processor"
+    ],
+    "specifications": {
+      "general": {
+        "model_name": "Model 237",
+        "color": "White",
+        "sim_type": "Dual Sim",
+        "touchscreen": true
+      },
+      "display": {
+        "size": "6.5 inch",
+        "resolution": "2400 x 1080 Pixels",
+        "type": "AMOLED"
+      },
+      "camera": {
+        "rear_camera": "64MP",
+        "front_camera": "16MP"
+      },
+      "battery": {
+        "capacity": "5000 mAh",
+        "fast_charging": true
+      },
+      "processor": {
+        "type": "MediaTek Dimensity 9200",
+        "cores": "Octa Core"
+      },
+      "os": "Android 14"
+    },
+    "reviews": [
+      {
+        "username": "user5876",
+        "rating": 5,
+        "comment": "Good product, worth the price.",
+        "date": "2025-05-25"
+      }
+    ],
+    "warranty": "1 Year Manufacturer Warranty",
+    "return_policy": "10 Days Replacement Policy",
+    "seller": {
+      "name": "Official Store",
+      "rating": 3.6,
+      "total_ratings": 1233
+    }
+  },
+  {
+    "id": "PROD1016",
+    "title": "OnePlus Model 460 (Red, 8GB RAM, 128GB Storage)",
+    "brand": "OnePlus",
+    "category": "Mobiles",
+    "price": {
+      "mrp": 48827,
+      "discounted_price": 45545,
+      "discount_percent": 6.72,
+      "currency": "INR"
+    },
+    "availability": {
+      "in_stock": false,
+      "estimated_delivery": "3-10 days"
+    },
+    "ratings": {
+      "average": 4.5,
+      "total_ratings": 6566,
+      "total_reviews": 501
+    },
+    "images": [
+      "https://example.com/images/oneplus_460_1.jpg",
+      "https://example.com/images/oneplus_460_2.jpg"
+    ],
+    "description": "OnePlus Model 460 is a high-performance smartphone with excellent display and battery life.",
+    "highlights": [
+      "8 GB RAM | 128 GB ROM",
+      "6.5 inch Full HD+ Display",
+      "64MP Rear Camera | 16MP Front Camera",
+      "5000 mAh Battery",
+      "Apple A17 Bionic Processor"
+    ],
+    "specifications": {
+      "general": {
+        "model_name": "Model 460",
+        "color": "Red",
+        "sim_type": "Dual Sim",
+        "touchscreen": true
+      },
+      "display": {
+        "size": "6.5 inch",
+        "resolution": "2400 x 1080 Pixels",
+        "type": "AMOLED"
+      },
+      "camera": {
+        "rear_camera": "64MP",
+        "front_camera": "16MP"
+      },
+      "battery": {
+        "capacity": "5000 mAh",
+        "fast_charging": true
+      },
+      "processor": {
+        "type": "Apple A17 Bionic",
+        "cores": "Octa Core"
+      },
+      "os": "Windows 11"
+    },
+    "reviews": [
+      {
+        "username": "user1934",
+        "rating": 4,
+        "comment": "Good product, worth the price.",
+        "date": "2025-05-01"
+      }
+    ],
+    "warranty": "1 Year Manufacturer Warranty",
+    "return_policy": "10 Days Replacement Policy",
+    "seller": {
+      "name": "BestElectronics",
+      "rating": 4.7,
+      "total_ratings": 4632
+    }
+  },
+  {
+    "id": "PROD1017",
+    "title": "Xiaomi Model 534 (White, 8GB RAM, 128GB Storage)",
+    "brand": "Xiaomi",
+    "category": "Mobiles",
+    "price": {
+      "mrp": 79668,
+      "discounted_price": 70924,
+      "discount_percent": 10.98,
+      "currency": "INR"
+    },
+    "availability": {
+      "in_stock": true,
+      "estimated_delivery": "2-10 days"
+    },
+    "ratings": {
+      "average": 4.2,
+      "total_ratings": 1855,
+      "total_reviews": 790
+    },
+    "images": [
+      "https://example.com/images/xiaomi_534_1.jpg",
+      "https://example.com/images/xiaomi_534_2.jpg"
+    ],
+    "description": "Xiaomi Model 534 is a high-performance smartphone with excellent display and battery life.",
+    "highlights": [
+      "8 GB RAM | 128 GB ROM",
+      "6.5 inch Full HD+ Display",
+      "64MP Rear Camera | 16MP Front Camera",
+      "5000 mAh Battery",
+      "Exynos 2200 Processor"
+    ],
+    "specifications": {
+      "general": {
+        "model_name": "Model 534",
+        "color": "White",
+        "sim_type": "Dual Sim",
+        "touchscreen": true
+      },
+      "display": {
+        "size": "6.5 inch",
+        "resolution": "2400 x 1080 Pixels",
+        "type": "AMOLED"
+      },
+      "camera": {
+        "rear_camera": "64MP",
+        "front_camera": "16MP"
+      },
+      "battery": {
+        "capacity": "5000 mAh",
+        "fast_charging": true
+      },
+      "processor": {
+        "type": "Apple A17 Bionic",
+        "cores": "Octa Core"
+      },
+      "os": "iOS 17"
+    },
+    "reviews": [
+      {
+        "username": "user1168",
+        "rating": 3,
+        "comment": "Good product, worth the price.",
+        "date": "2025-05-14"
+      }
+    ],
+    "warranty": "1 Year Manufacturer Warranty",
+    "return_policy": "10 Days Replacement Policy",
+    "seller": {
+      "name": "BestElectronics",
+      "rating": 5.0,
+      "total_ratings": 1908
+    }
+  },
+  {
+    "id": "PROD1018",
+    "title": "Oppo Model 439 (Blue, 8GB RAM, 128GB Storage)",
+    "brand": "Oppo",
+    "category": "Mobiles",
+    "price": {
+      "mrp": 36835,
+      "discounted_price": 33718,
+      "discount_percent": 8.46,
+      "currency": "INR"
+    },
+    "availability": {
+      "in_stock": false,
+      "estimated_delivery": "5-10 days"
+    },
+    "ratings": {
+      "average": 3.9,
+      "total_ratings": 5496,
+      "total_reviews": 505
+    },
+    "images": [
+      "https://example.com/images/oppo_439_1.jpg",
+      "https://example.com/images/oppo_439_2.jpg"
+    ],
+    "description": "Oppo Model 439 is a high-performance smartphone with excellent display and battery life.",
+    "highlights": [
+      "8 GB RAM | 128 GB ROM",
+      "6.5 inch Full HD+ Display",
+      "64MP Rear Camera | 16MP Front Camera",
+      "5000 mAh Battery",
+      "Snapdragon 8 Gen 3 Processor"
+    ],
+    "specifications": {
+      "general": {
+        "model_name": "Model 439",
+        "color": "Blue",
+        "sim_type": "Dual Sim",
+        "touchscreen": true
+      },
+      "display": {
+        "size": "6.5 inch",
+        "resolution": "2400 x 1080 Pixels",
+        "type": "AMOLED"
+      },
+      "camera": {
+        "rear_camera": "64MP",
+        "front_camera": "16MP"
+      },
+      "battery": {
+        "capacity": "5000 mAh",
+        "fast_charging": true
+      },
+      "processor": {
+        "type": "MediaTek Dimensity 9200",
+        "cores": "Octa Core"
+      },
+      "os": "Android 13"
+    },
+    "reviews": [
+      {
+        "username": "user7224",
+        "rating": 5,
+        "comment": "Good product, worth the price.",
+        "date": "2025-05-02"
+      }
+    ],
+    "warranty": "1 Year Manufacturer Warranty",
+    "return_policy": "10 Days Replacement Policy",
+    "seller": {
+      "name": "GadgetWorld",
+      "rating": 4.9,
+      "total_ratings": 3641
+    }
+  },
+  {
+    "id": "PROD1019",
+    "title": "OnePlus Model 631 (Blue, 8GB RAM, 128GB Storage)",
+    "brand": "OnePlus",
+    "category": "Mobiles",
+    "price": {
+      "mrp": 54184,
+      "discounted_price": 46192,
+      "discount_percent": 14.75,
+      "currency": "INR"
+    },
+    "availability": {
+      "in_stock": false,
+      "estimated_delivery": "5-10 days"
+    },
+    "ratings": {
+      "average": 4.5,
+      "total_ratings": 4271,
+      "total_reviews": 605
+    },
+    "images": [
+      "https://example.com/images/oneplus_631_1.jpg",
+      "https://example.com/images/oneplus_631_2.jpg"
+    ],
+    "description": "OnePlus Model 631 is a high-performance smartphone with excellent display and battery life.",
+    "highlights": [
+      "8 GB RAM | 128 GB ROM",
+      "6.5 inch Full HD+ Display",
+      "64MP Rear Camera | 16MP Front Camera",
+      "5000 mAh Battery",
+      "Snapdragon 8 Gen 3 Processor"
+    ],
+    "specifications": {
+      "general": {
+        "model_name": "Model 631",
+        "color": "Blue",
+        "sim_type": "Dual Sim",
+        "touchscreen": true
+      },
+      "display": {
+        "size": "6.5 inch",
+        "resolution": "2400 x 1080 Pixels",
+        "type": "AMOLED"
+      },
+      "camera": {
+        "rear_camera": "64MP",
+        "front_camera": "16MP"
+      },
+      "battery": {
+        "capacity": "5000 mAh",
+        "fast_charging": true
+      },
+      "processor": {
+        "type": "Exynos 2200",
+        "cores": "Octa Core"
+      },
+      "os": "Windows 11"
+    },
+    "reviews": [
+      {
+        "username": "user2474",
+        "rating": 3,
+        "comment": "Good product, worth the price.",
+        "date": "2025-04-29"
+      }
+    ],
+    "warranty": "1 Year Manufacturer Warranty",
+    "return_policy": "10 Days Replacement Policy",
+    "seller": {
+      "name": "Official Store",
+      "rating": 4.8,
+      "total_ratings": 4047
+    }
+  }
+]

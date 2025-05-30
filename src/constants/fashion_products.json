@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "FASH1000",
+    "title": "Levi's Stylish Sneakers",
+    "brand": "Levi's",
+    "category": "Women's Clothing",
+    "price": {
+      "mrp": 3767,
+      "discounted_price": 2793,
+      "discount_percent": 25.86,
+      "currency": "INR"
+    },
+    "availability": {
+      "in_stock": true,
+      "estimated_delivery": "3-7 days"
+    },
+    "ratings": {
+      "average": 4.0,
+      "total_ratings": 4055,
+      "total_reviews": 417
+    },
+    "images": [
+      "https://example.com/fashion/levi's_0_1.jpg",
+      "https://example.com/fashion/levi's_0_2.jpg"
+    ],
+    "description": "A stylish and comfortable Levi's outfit perfect for daily wear.",
+    "highlights": [
+      "Available Sizes: XXL, L, M",
+      "Material: Denim",
+      "Machine Washable",
+      "Trendy Design"
+    ],
+    "specifications": {
+      "general": {
+        "brand": "Levi's",
+        "color": "Black",
+        "material": "Polyester",
+        "ideal_for": "Unisex",
+        "size": "M"
+      },
+      "care": {
+        "wash_care": "Machine Wash",
+        "drying": "Do not tumble dry"
+      }
+    },
+    "reviews": [
+      {
+        "username": "user3910",
+        "rating": 5,
+        "comment": "Great quality and fit!",
+        "date": "2025-05-04"
+      }
+    ],
+    "warranty": "7 Days Return Policy",
+    "return_policy": "7 Days Return/Exchange",
+    "seller": {
+      "name": "StyleStore",
+      "rating": 4.7,
+      "total_ratings": 618
+    }
+  },
+  {
+    "id": "FASH1001",
+    "title": "Nike Stylish Dress",
+    "brand": "Nike",
+    "category": "Men's Clothing",
+    "price": {
+      "mrp": 3379,
+      "discounted_price": 3013,
+      "discount_percent": 10.83,
+      "currency": "INR"
+    },
+    "availability": {
+      "in_stock": true,
+      "estimated_delivery": "2-7 days"
+    },
+    "ratings": {
+      "average": 4.2,
+      "total_ratings": 3182,
+      "total_reviews": 139
+    },
+    "images": [
+      "https://example.com/fashion/nike_1_1.jpg",
+      "https://example.com/fashion/nike_1_2.jpg"
+    ],
+    "description": "A stylish and comfortable Nike outfit perfect for daily wear.",
+    "highlights": [
+      "Available Sizes: XL, L, M",
+      "Material: Cotton",
+      "Machine Washable",
+      "Trendy Design"
+    ],
+    "specifications": {
+      "general": {
+        "brand": "Nike",
+        "color": "White",
+        "material": "Denim",
+        "ideal_for": "Men",
+        "size": "XL"
+      },
+      "care": {
+        "wash_care": "Machine Wash",
+        "drying": "Do not tumble dry"
+      }
+    },
+    "reviews": [
+      {
+        "username": "user4850",
+        "rating": 3,
+        "comment": "Great quality and fit!",
+        "date": "2025-05-20"
+      }
+    ],
+    "warranty": "7 Days Return Policy",
+    "return_policy": "7 Days Return/Exchange",
+    "seller": {
+      "name": "BrandBazaar",
+      "rating": 4.9,
+      "total_ratings": 2616
+    }
+  },
+  {
+    "id": "FASH1002",
+    "title": "Levi's Stylish Sneakers",
+    "brand": "Levi's",
+    "category": "Accessories",
+    "price": {
+      "mrp": 1101,
+      "discounted_price": 864,
+      "discount_percent": 21.53,
+      "currency": "INR"
+    },
+    "availability": {
+      "in_stock": true,
+      "estimated_delivery": "2-7 days"
+    },
+    "ratings": {
+      "average": 3.8,
+      "total_ratings": 2322,
+      "total_reviews": 281
+    },
+    "images": [
+      "https://example.com/fashion/levi's_2_1.jpg",
+      "https://example.com/fashion/levi's_2_2.jpg"
+    ],
+    "description": "A stylish and comfortable Levi's outfit perfect for daily wear.",
+    "highlights": [
+      "Available Sizes: S, XXL, M",
+      "Material: Denim",
+      "Machine Washable",
+      "Trendy Design"
+    ],
+    "specifications": {
+      "general": {
+        "brand": "Levi's",
+        "color": "Yellow",
+        "material": "Polyester",
+        "ideal_for": "Unisex",
+        "size": "M"
+      },
+      "care": {
+        "wash_care": "Machine Wash",
+        "drying": "Do not tumble dry"
+      }
+    },
+    "reviews": [
+      {
+        "username": "user2602",
+        "rating": 5,
+        "comment": "Great quality and fit!",
+        "date": "2025-05-08"
+      }
+    ],
+    "warranty": "7 Days Return Policy",
+    "return_policy": "7 Days Return/Exchange",
+    "seller": {
+      "name": "TrendyWear",
+      "rating": 3.7,
+      "total_ratings": 1767
+    }
+  },
+  {
+    "id": "FASH1003",
+    "title": "FabIndia Stylish T-Shirt",
+    "brand": "FabIndia",
+    "category": "Footwear",
+    "price": {
+      "mrp": 1741,
+      "discounted_price": 1537,
+      "discount_percent": 11.72,
+      "currency": "INR"
+    },
+    "availability": {
+      "in_stock": true,
+      "estimated_delivery": "3-7 days"
+    },
+    "ratings": {
+      "average": 4.4,
+      "total_ratings": 4193,
+      "total_reviews": 60
+    },
+    "images": [
+      "https://example.com/fashion/fabindia_3_1.jpg",
+      "https://example.com/fashion/fabindia_3_2.jpg"
+    ],
+    "description": "A stylish and comfortable FabIndia outfit perfect for daily wear.",
+    "highlights": [
+      "Available Sizes: S, L, XL",
+      "Material: Denim",
+      "Machine Washable",
+      "Trendy Design"
+    ],
+    "specifications": {
+      "general": {
+        "brand": "FabIndia",
+        "color": "Red",
+        "material": "Denim",
+        "ideal_for": "Women",
+        "size": "S"
+      },
+      "care": {
+        "wash_care": "Machine Wash",
+        "drying": "Do not tumble dry"
+      }
+    },
+    "reviews": [
+      {
+        "username": "user4490",
+        "rating": 3,
+        "comment": "Great quality and fit!",
+        "date": "2025-05-09"
+      }
+    ],
+    "warranty": "7 Days Return Policy",
+    "return_policy": "7 Days Return/Exchange",
+    "seller": {
+      "name": "TrendyWear",
+      "rating": 3.9,
+      "total_ratings": 349
+    }
+  },
+  {
+    "id": "FASH1004",
+    "title": "Levi's Stylish Sneakers",
+    "brand": "Levi's",
+    "category": "Women's Clothing",
+    "price": {
+      "mrp": 4554,
+      "discounted_price": 3678,
+      "discount_percent": 19.24,
+      "currency": "INR"
+    },
+    "availability": {
+      "in_stock": true,
+      "estimated_delivery": "2-7 days"
+    },
+    "ratings": {
+      "average": 4.0,
+      "total_ratings": 905,
+      "total_reviews": 264
+    },
+    "images": [
+      "https://example.com/fashion/levi's_4_1.jpg",
+      "https://example.com/fashion/levi's_4_2.jpg"
+    ],
+    "description": "A stylish and comfortable Levi's outfit perfect for daily wear.",
+    "highlights": [
+      "Available Sizes: M, S, XL",
+      "Material: Leather",
+      "Machine Washable",
+      "Trendy Design"
+    ],
+    "specifications": {
+      "general": {
+        "brand": "Levi's",
+        "color": "Black",
+        "material": "Polyester",
+        "ideal_for": "Men",
+        "size": "XXL"
+      },
+      "care": {
+        "wash_care": "Machine Wash",
+        "drying": "Do not tumble dry"
+      }
+    },
+    "reviews": [
+      {
+        "username": "user3135",
+        "rating": 5,
+        "comment": "Great quality and fit!",
+        "date": "2025-05-27"
+      }
+    ],
+    "warranty": "7 Days Return Policy",
+    "return_policy": "7 Days Return/Exchange",
+    "seller": {
+      "name": "FashionHub",
+      "rating": 3.9,
+      "total_ratings": 2097
+    }
+  },
+  {
+    "id": "FASH1005",
+    "title": "Levi's Stylish Sneakers",
+    "brand": "Levi's",
+    "category": "Women's Clothing",
+    "price": {
+      "mrp": 2095,
+      "discounted_price": 1783,
+      "discount_percent": 14.89,
+      "currency": "INR"
+    },
+    "availability": {
+      "in_stock": true,
+      "estimated_delivery": "4-7 days"
+    },
+    "ratings": {
+      "average": 5.0,
+      "total_ratings": 4456,
+      "total_reviews": 324
+    },
+    "images": [
+      "https://example.com/fashion/levi's_5_1.jpg",
+      "https://example.com/fashion/levi's_5_2.jpg"
+    ],
+    "description": "A stylish and comfortable Levi's outfit perfect for daily wear.",
+    "highlights": [
+      "Available Sizes: M, XXL, XL",
+      "Material: Polyester",
+      "Machine Washable",
+      "Trendy Design"
+    ],
+    "specifications": {
+      "general": {
+        "brand": "Levi's",
+        "color": "White",
+        "material": "Linen",
+        "ideal_for": "Men",
+        "size": "XXL"
+      },
+      "care": {
+        "wash_care": "Machine Wash",
+        "drying": "Do not tumble dry"
+      }
+    },
+    "reviews": [
+      {
+        "username": "user2627",
+        "rating": 4,
+        "comment": "Great quality and fit!",
+        "date": "2025-05-25"
+      }
+    ],
+    "warranty": "7 Days Return Policy",
+    "return_policy": "7 Days Return/Exchange",
+    "seller": {
+      "name": "FashionHub",
+      "rating": 4.5,
+      "total_ratings": 384
+    }
+  },
+  {
+    "id": "FASH1006",
+    "title": "Biba Stylish Jeans",
+    "brand": "Biba",
+    "category": "Accessories",
+    "price": {
+      "mrp": 3798,
+      "discounted_price": 3081,
+      "discount_percent": 18.88,
+      "currency": "INR"
+    },
+    "availability": {
+      "in_stock": true,
+      "estimated_delivery": "3-7 days"
+    },
+    "ratings": {
+      "average": 4.4,
+      "total_ratings": 677,
+      "total_reviews": 479
+    },
+    "images": [
+      "https://example.com/fashion/biba_6_1.jpg",
+      "https://example.com/fashion/biba_6_2.jpg"
+    ],
+    "description": "A stylish and comfortable Biba outfit perfect for daily wear.",
+    "highlights": [
+      "Available Sizes: XXL, XL, M",
+      "Material: Linen",
+      "Machine Washable",
+      "Trendy Design"
+    ],
+    "specifications": {
+      "general": {
+        "brand": "Biba",
+        "color": "Green",
+        "material": "Denim",
+        "ideal_for": "Women",
+        "size": "M"
+      },
+      "care": {
+        "wash_care": "Machine Wash",
+        "drying": "Do not tumble dry"
+      }
+    },
+    "reviews": [
+      {
+        "username": "user1129",
+        "rating": 5,
+        "comment": "Great quality and fit!",
+        "date": "2025-05-28"
+      }
+    ],
+    "warranty": "7 Days Return Policy",
+    "return_policy": "7 Days Return/Exchange",
+    "seller": {
+      "name": "BrandBazaar",
+      "rating": 4.4,
+      "total_ratings": 1568
+    }
+  },
+  {
+    "id": "FASH1007",
+    "title": "Puma Stylish T-Shirt",
+    "brand": "Puma",
+    "category": "Women's Clothing",
+    "price": {
+      "mrp": 4243,
+      "discounted_price": 3346,
+      "discount_percent": 21.14,
+      "currency": "INR"
+    },
+    "availability": {
+      "in_stock": true,
+      "estimated_delivery": "5-7 days"
+    },
+    "ratings": {
+      "average": 4.4,
+      "total_ratings": 4730,
+      "total_reviews": 500
+    },
+    "images": [
+      "https://example.com/fashion/puma_7_1.jpg",
+      "https://example.com/fashion/puma_7_2.jpg"
+    ],
+    "description": "A stylish and comfortable Puma outfit perfect for daily wear.",
+    "highlights": [
+      "Available Sizes: M, XXL, XL",
+      "Material: Denim",
+      "Machine Washable",
+      "Trendy Design"
+    ],
+    "specifications": {
+      "general": {
+        "brand": "Puma",
+        "color": "Green",
+        "material": "Linen",
+        "ideal_for": "Men",
+        "size": "S"
+      },
+      "care": {
+        "wash_care": "Machine Wash",
+        "drying": "Do not tumble dry"
+      }
+    },
+    "reviews": [
+      {
+        "username": "user4439",
+        "rating": 5,
+        "comment": "Great quality and fit!",
+        "date": "2025-04-29"
+      }
+    ],
+    "warranty": "7 Days Return Policy",
+    "return_policy": "7 Days Return/Exchange",
+    "seller": {
+      "name": "FashionHub",
+      "rating": 4.3,
+      "total_ratings": 1454
+    }
+  },
+  {
+    "id": "FASH1008",
+    "title": "H&M Stylish T-Shirt",
+    "brand": "H&M",
+    "category": "Women's Clothing",
+    "price": {
+      "mrp": 3719,
+      "discounted_price": 2692,
+      "discount_percent": 27.61,
+      "currency": "INR"
+    },
+    "availability": {
+      "in_stock": true,
+      "estimated_delivery": "3-7 days"
+    },
+    "ratings": {
+      "average": 4.4,
+      "total_ratings": 1372,
+      "total_reviews": 424
+    },
+    "images": [
+      "https://example.com/fashion/h&m_8_1.jpg",
+      "https://example.com/fashion/h&m_8_2.jpg"
+    ],
+    "description": "A stylish and comfortable H&M outfit perfect for daily wear.",
+    "highlights": [
+      "Available Sizes: S, L, M",
+      "Material: Linen",
+      "Machine Washable",
+      "Trendy Design"
+    ],
+    "specifications": {
+      "general": {
+        "brand": "H&M",
+        "color": "Yellow",
+        "material": "Linen",
+        "ideal_for": "Unisex",
+        "size": "L"
+      },
+      "care": {
+        "wash_care": "Machine Wash",
+        "drying": "Do not tumble dry"
+      }
+    },
+    "reviews": [
+      {
+        "username": "user9246",
+        "rating": 4,
+        "comment": "Great quality and fit!",
+        "date": "2025-04-29"
+      }
+    ],
+    "warranty": "7 Days Return Policy",
+    "return_policy": "7 Days Return/Exchange",
+    "seller": {
+      "name": "StyleStore",
+      "rating": 3.6,
+      "total_ratings": 1453
+    }
+  },
+  {
+    "id": "FASH1009",
+    "title": "Levi's Stylish Dress",
+    "brand": "Levi's",
+    "category": "Women's Clothing",
+    "price": {
+      "mrp": 4369,
+      "discounted_price": 3114,
+      "discount_percent": 28.73,
+      "currency": "INR"
+    },
+    "availability": {
+      "in_stock": true,
+      "estimated_delivery": "3-7 days"
+    },
+    "ratings": {
+      "average": 4.0,
+      "total_ratings": 4789,
+      "total_reviews": 211
+    },
+    "images": [
+      "https://example.com/fashion/levi's_9_1.jpg",
+      "https://example.com/fashion/levi's_9_2.jpg"
+    ],
+    "description": "A stylish and comfortable Levi's outfit perfect for daily wear.",
+    "highlights": [
+      "Available Sizes: M, S, L",
+      "Material: Cotton",
+      "Machine Washable",
+      "Trendy Design"
+    ],
+    "specifications": {
+      "general": {
+        "brand": "Levi's",
+        "color": "Green",
+        "material": "Polyester",
+        "ideal_for": "Women",
+        "size": "M"
+      },
+      "care": {
+        "wash_care": "Machine Wash",
+        "drying": "Do not tumble dry"
+      }
+    },
+    "reviews": [
+      {
+        "username": "user7701",
+        "rating": 5,
+        "comment": "Great quality and fit!",
+        "date": "2025-05-27"
+      }
+    ],
+    "warranty": "7 Days Return Policy",
+    "return_policy": "7 Days Return/Exchange",
+    "seller": {
+      "name": "BrandBazaar",
+      "rating": 4.6,
+      "total_ratings": 1963
+    }
+  },
+  {
+    "id": "FASH1010",
+    "title": "Zara Stylish T-Shirt",
+    "brand": "Zara",
+    "category": "Footwear",
+    "price": {
+      "mrp": 2282,
+      "discounted_price": 1759,
+      "discount_percent": 22.92,
+      "currency": "INR"
+    },
+    "availability": {
+      "in_stock": true,
+      "estimated_delivery": "2-7 days"
+    },
+    "ratings": {
+      "average": 3.5,
+      "total_ratings": 137,
+      "total_reviews": 349
+    },
+    "images": [
+      "https://example.com/fashion/zara_10_1.jpg",
+      "https://example.com/fashion/zara_10_2.jpg"
+    ],
+    "description": "A stylish and comfortable Zara outfit perfect for daily wear.",
+    "highlights": [
+      "Available Sizes: S, L, M",
+      "Material: Polyester",
+      "Machine Washable",
+      "Trendy Design"
+    ],
+    "specifications": {
+      "general": {
+        "brand": "Zara",
+        "color": "Black",
+        "material": "Polyester",
+        "ideal_for": "Women",
+        "size": "XL"
+      },
+      "care": {
+        "wash_care": "Machine Wash",
+        "drying": "Do not tumble dry"
+      }
+    },
+    "reviews": [
+      {
+        "username": "user8710",
+        "rating": 5,
+        "comment": "Great quality and fit!",
+        "date": "2025-05-03"
+      }
+    ],
+    "warranty": "7 Days Return Policy",
+    "return_policy": "7 Days Return/Exchange",
+    "seller": {
+      "name": "FashionHub",
+      "rating": 4.5,
+      "total_ratings": 734
+    }
+  },
+  {
+    "id": "FASH1011",
+    "title": "FabIndia Stylish Sneakers",
+    "brand": "FabIndia",
+    "category": "Accessories",
+    "price": {
+      "mrp": 4288,
+      "discounted_price": 3322,
+      "discount_percent": 22.53,
+      "currency": "INR"
+    },
+    "availability": {
+      "in_stock": true,
+      "estimated_delivery": "5-7 days"
+    },
+    "ratings": {
+      "average": 4.9,
+      "total_ratings": 2625,
+      "total_reviews": 316
+    },
+    "images": [
+      "https://example.com/fashion/fabindia_11_1.jpg",
+      "https://example.com/fashion/fabindia_11_2.jpg"
+    ],
+    "description": "A stylish and comfortable FabIndia outfit perfect for daily wear.",
+    "highlights": [
+      "Available Sizes: L, M, XL",
+      "Material: Leather",
+      "Machine Washable",
+      "Trendy Design"
+    ],
+    "specifications": {
+      "general": {
+        "brand": "FabIndia",
+        "color": "Black",
+        "material": "Linen",
+        "ideal_for": "Men",
+        "size": "XL"
+      },
+      "care": {
+        "wash_care": "Machine Wash",
+        "drying": "Do not tumble dry"
+      }
+    },
+    "reviews": [
+      {
+        "username": "user9137",
+        "rating": 4,
+        "comment": "Great quality and fit!",
+        "date": "2025-05-04"
+      }
+    ],
+    "warranty": "7 Days Return Policy",
+    "return_policy": "7 Days Return/Exchange",
+    "seller": {
+      "name": "FashionHub",
+      "rating": 4.2,
+      "total_ratings": 2302
+    }
+  },
+  {
+    "id": "FASH1012",
+    "title": "Biba Stylish Jacket",
+    "brand": "Biba",
+    "category": "Men's Clothing",
+    "price": {
+      "mrp": 4805,
+      "discounted_price": 3877,
+      "discount_percent": 19.31,
+      "currency": "INR"
+    },
+    "availability": {
+      "in_stock": true,
+      "estimated_delivery": "3-7 days"
+    },
+    "ratings": {
+      "average": 4.0,
+      "total_ratings": 3153,
+      "total_reviews": 499
+    },
+    "images": [
+      "https://example.com/fashion/biba_12_1.jpg",
+      "https://example.com/fashion/biba_12_2.jpg"
+    ],
+    "description": "A stylish and comfortable Biba outfit perfect for daily wear.",
+    "highlights": [
+      "Available Sizes: XL, XXL, M",
+      "Material: Denim",
+      "Machine Washable",
+      "Trendy Design"
+    ],
+    "specifications": {
+      "general": {
+        "brand": "Biba",
+        "color": "White",
+        "material": "Cotton",
+        "ideal_for": "Women",
+        "size": "XXL"
+      },
+      "care": {
+        "wash_care": "Machine Wash",
+        "drying": "Do not tumble dry"
+      }
+    },
+    "reviews": [
+      {
+        "username": "user7126",
+        "rating": 4,
+        "comment": "Great quality and fit!",
+        "date": "2025-05-14"
+      }
+    ],
+    "warranty": "7 Days Return Policy",
+    "return_policy": "7 Days Return/Exchange",
+    "seller": {
+      "name": "TrendyWear",
+      "rating": 4.0,
+      "total_ratings": 1781
+    }
+  },
+  {
+    "id": "FASH1013",
+    "title": "H&M Stylish Dress",
+    "brand": "H&M",
+    "category": "Footwear",
+    "price": {
+      "mrp": 4213,
+      "discounted_price": 3132,
+      "discount_percent": 25.66,
+      "currency": "INR"
+    },
+    "availability": {
+      "in_stock": true,
+      "estimated_delivery": "2-7 days"
+    },
+    "ratings": {
+      "average": 4.2,
+      "total_ratings": 813,
+      "total_reviews": 390
+    },
+    "images": [
+      "https://example.com/fashion/h&m_13_1.jpg",
+      "https://example.com/fashion/h&m_13_2.jpg"
+    ],
+    "description": "A stylish and comfortable H&M outfit perfect for daily wear.",
+    "highlights": [
+      "Available Sizes: XL, S, M",
+      "Material: Linen",
+      "Machine Washable",
+      "Trendy Design"
+    ],
+    "specifications": {
+      "general": {
+        "brand": "H&M",
+        "color": "Green",
+        "material": "Linen",
+        "ideal_for": "Men",
+        "size": "M"
+      },
+      "care": {
+        "wash_care": "Machine Wash",
+        "drying": "Do not tumble dry"
+      }
+    },
+    "reviews": [
+      {
+        "username": "user4242",
+        "rating": 3,
+        "comment": "Great quality and fit!",
+        "date": "2025-05-01"
+      }
+    ],
+    "warranty": "7 Days Return Policy",
+    "return_policy": "7 Days Return/Exchange",
+    "seller": {
+      "name": "FashionHub",
+      "rating": 4.6,
+      "total_ratings": 596
+    }
+  },
+  {
+    "id": "FASH1014",
+    "title": "Puma Stylish Sneakers",
+    "brand": "Puma",
+    "category": "Men's Clothing",
+    "price": {
+      "mrp": 4146,
+      "discounted_price": 3237,
+      "discount_percent": 21.92,
+      "currency": "INR"
+    },
+    "availability": {
+      "in_stock": true,
+      "estimated_delivery": "3-7 days"
+    },
+    "ratings": {
+      "average": 4.8,
+      "total_ratings": 3750,
+      "total_reviews": 365
+    },
+    "images": [
+      "https://example.com/fashion/puma_14_1.jpg",
+      "https://example.com/fashion/puma_14_2.jpg"
+    ],
+    "description": "A stylish and comfortable Puma outfit perfect for daily wear.",
+    "highlights": [
+      "Available Sizes: XL, XXL, M",
+      "Material: Linen",
+      "Machine Washable",
+      "Trendy Design"
+    ],
+    "specifications": {
+      "general": {
+        "brand": "Puma",
+        "color": "White",
+        "material": "Polyester",
+        "ideal_for": "Men",
+        "size": "M"
+      },
+      "care": {
+        "wash_care": "Machine Wash",
+        "drying": "Do not tumble dry"
+      }
+    },
+    "reviews": [
+      {
+        "username": "user1925",
+        "rating": 3,
+        "comment": "Great quality and fit!",
+        "date": "2025-05-25"
+      }
+    ],
+    "warranty": "7 Days Return Policy",
+    "return_policy": "7 Days Return/Exchange",
+    "seller": {
+      "name": "BrandBazaar",
+      "rating": 4.5,
+      "total_ratings": 2065
+    }
+  },
+  {
+    "id": "FASH1015",
+    "title": "Nike Stylish Jacket",
+    "brand": "Nike",
+    "category": "Accessories",
+    "price": {
+      "mrp": 3358,
+      "discounted_price": 2525,
+      "discount_percent": 24.81,
+      "currency": "INR"
+    },
+    "availability": {
+      "in_stock": true,
+      "estimated_delivery": "5-7 days"
+    },
+    "ratings": {
+      "average": 3.6,
+      "total_ratings": 4635,
+      "total_reviews": 69
+    },
+    "images": [
+      "https://example.com/fashion/nike_15_1.jpg",
+      "https://example.com/fashion/nike_15_2.jpg"
+    ],
+    "description": "A stylish and comfortable Nike outfit perfect for daily wear.",
+    "highlights": [
+      "Available Sizes: L, XXL, M",
+      "Material: Denim",
+      "Machine Washable",
+      "Trendy Design"
+    ],
+    "specifications": {
+      "general": {
+        "brand": "Nike",
+        "color": "Blue",
+        "material": "Polyester",
+        "ideal_for": "Men",
+        "size": "M"
+      },
+      "care": {
+        "wash_care": "Machine Wash",
+        "drying": "Do not tumble dry"
+      }
+    },
+    "reviews": [
+      {
+        "username": "user7835",
+        "rating": 5,
+        "comment": "Great quality and fit!",
+        "date": "2025-05-20"
+      }
+    ],
+    "warranty": "7 Days Return Policy",
+    "return_policy": "7 Days Return/Exchange",
+    "seller": {
+      "name": "FashionHub",
+      "rating": 3.6,
+      "total_ratings": 2816
+    }
+  },
+  {
+    "id": "FASH1016",
+    "title": "Levi's Stylish T-Shirt",
+    "brand": "Levi's",
+    "category": "Accessories",
+    "price": {
+      "mrp": 1289,
+      "discounted_price": 1047,
+      "discount_percent": 18.77,
+      "currency": "INR"
+    },
+    "availability": {
+      "in_stock": true,
+      "estimated_delivery": "5-7 days"
+    },
+    "ratings": {
+      "average": 4.6,
+      "total_ratings": 4465,
+      "total_reviews": 130
+    },
+    "images": [
+      "https://example.com/fashion/levi's_16_1.jpg",
+      "https://example.com/fashion/levi's_16_2.jpg"
+    ],
+    "description": "A stylish and comfortable Levi's outfit perfect for daily wear.",
+    "highlights": [
+      "Available Sizes: L, XL, XXL",
+      "Material: Linen",
+      "Machine Washable",
+      "Trendy Design"
+    ],
+    "specifications": {
+      "general": {
+        "brand": "Levi's",
+        "color": "Yellow",
+        "material": "Linen",
+        "ideal_for": "Unisex",
+        "size": "L"
+      },
+      "care": {
+        "wash_care": "Machine Wash",
+        "drying": "Do not tumble dry"
+      }
+    },
+    "reviews": [
+      {
+        "username": "user2874",
+        "rating": 5,
+        "comment": "Great quality and fit!",
+        "date": "2025-04-29"
+      }
+    ],
+    "warranty": "7 Days Return Policy",
+    "return_policy": "7 Days Return/Exchange",
+    "seller": {
+      "name": "TrendyWear",
+      "rating": 3.8,
+      "total_ratings": 2369
+    }
+  },
+  {
+    "id": "FASH1017",
+    "title": "Adidas Stylish Dress",
+    "brand": "Adidas",
+    "category": "Footwear",
+    "price": {
+      "mrp": 4689,
+      "discounted_price": 3707,
+      "discount_percent": 20.94,
+      "currency": "INR"
+    },
+    "availability": {
+      "in_stock": true,
+      "estimated_delivery": "3-7 days"
+    },
+    "ratings": {
+      "average": 4.5,
+      "total_ratings": 4015,
+      "total_reviews": 390
+    },
+    "images": [
+      "https://example.com/fashion/adidas_17_1.jpg",
+      "https://example.com/fashion/adidas_17_2.jpg"
+    ],
+    "description": "A stylish and comfortable Adidas outfit perfect for daily wear.",
+    "highlights": [
+      "Available Sizes: XL, L, XXL",
+      "Material: Cotton",
+      "Machine Washable",
+      "Trendy Design"
+    ],
+    "specifications": {
+      "general": {
+        "brand": "Adidas",
+        "color": "Black",
+        "material": "Denim",
+        "ideal_for": "Men",
+        "size": "L"
+      },
+      "care": {
+        "wash_care": "Machine Wash",
+        "drying": "Do not tumble dry"
+      }
+    },
+    "reviews": [
+      {
+        "username": "user8892",
+        "rating": 5,
+        "comment": "Great quality and fit!",
+        "date": "2025-05-04"
+      }
+    ],
+    "warranty": "7 Days Return Policy",
+    "return_policy": "7 Days Return/Exchange",
+    "seller": {
+      "name": "TrendyWear",
+      "rating": 4.0,
+      "total_ratings": 2710
+    }
+  },
+  {
+    "id": "FASH1018",
+    "title": "Levi's Stylish Dress",
+    "brand": "Levi's",
+    "category": "Women's Clothing",
+    "price": {
+      "mrp": 2772,
+      "discounted_price": 2086,
+      "discount_percent": 24.75,
+      "currency": "INR"
+    },
+    "availability": {
+      "in_stock": true,
+      "estimated_delivery": "5-7 days"
+    },
+    "ratings": {
+      "average": 3.8,
+      "total_ratings": 152,
+      "total_reviews": 242
+    },
+    "images": [
+      "https://example.com/fashion/levi's_18_1.jpg",
+      "https://example.com/fashion/levi's_18_2.jpg"
+    ],
+    "description": "A stylish and comfortable Levi's outfit perfect for daily wear.",
+    "highlights": [
+      "Available Sizes: XL, XXL, L",
+      "Material: Leather",
+      "Machine Washable",
+      "Trendy Design"
+    ],
+    "specifications": {
+      "general": {
+        "brand": "Levi's",
+        "color": "Yellow",
+        "material": "Cotton",
+        "ideal_for": "Women",
+        "size": "XXL"
+      },
+      "care": {
+        "wash_care": "Machine Wash",
+        "drying": "Do not tumble dry"
+      }
+    },
+    "reviews": [
+      {
+        "username": "user4235",
+        "rating": 4,
+        "comment": "Great quality and fit!",
+        "date": "2025-05-20"
+      }
+    ],
+    "warranty": "7 Days Return Policy",
+    "return_policy": "7 Days Return/Exchange",
+    "seller": {
+      "name": "FashionHub",
+      "rating": 4.7,
+      "total_ratings": 1836
+    }
+  },
+  {
+    "id": "FASH1019",
+    "title": "Biba Stylish Sneakers",
+    "brand": "Biba",
+    "category": "Footwear",
+    "price": {
+      "mrp": 2121,
+      "discounted_price": 1902,
+      "discount_percent": 10.33,
+      "currency": "INR"
+    },
+    "availability": {
+      "in_stock": true,
+      "estimated_delivery": "2-7 days"
+    },
+    "ratings": {
+      "average": 4.2,
+      "total_ratings": 4554,
+      "total_reviews": 282
+    },
+    "images": [
+      "https://example.com/fashion/biba_19_1.jpg",
+      "https://example.com/fashion/biba_19_2.jpg"
+    ],
+    "description": "A stylish and comfortable Biba outfit perfect for daily wear.",
+    "highlights": [
+      "Available Sizes: M, XL, XXL",
+      "Material: Leather",
+      "Machine Washable",
+      "Trendy Design"
+    ],
+    "specifications": {
+      "general": {
+        "brand": "Biba",
+        "color": "Pink",
+        "material": "Linen",
+        "ideal_for": "Men",
+        "size": "S"
+      },
+      "care": {
+        "wash_care": "Machine Wash",
+        "drying": "Do not tumble dry"
+      }
+    },
+    "reviews": [
+      {
+        "username": "user1613",
+        "rating": 4,
+        "comment": "Great quality and fit!",
+        "date": "2025-05-27"
+      }
+    ],
+    "warranty": "7 Days Return Policy",
+    "return_policy": "7 Days Return/Exchange",
+    "seller": {
+      "name": "TrendyWear",
+      "rating": 4.7,
+      "total_ratings": 1972
+    }
+  }
+]

@@ -1,23 +1,17 @@
 import React from "react";
 import Navbar from "../components/Navbar";
-import Categories from "../components/Categories";
-import { CgCarousel } from "react-icons/cg";
-import LazyLoad from "../components/LazyLoad";
-import FashionCategoryList from "../components/FashionCategoryList";
+import { Outlet } from "react-router-dom";
+import Footer from "../components/Footer";
 
 const MainPageLayout = () => {
   return (
-    <div>
-    <Navbar />
-      <main
-      className="w-screen">
-        <Categories />
-        <section >
-          <LazyLoad />
-     </section>
-        <FashionCategoryList  />
+    <>
+      <Navbar />
+      <main className="w-screen">
+        <Outlet />
       </main>
-    </div>
+      <Footer />
+    </>
   );
 };
 
