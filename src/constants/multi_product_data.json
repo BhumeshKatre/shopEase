@@ -1,0 +1,1083 @@
+{
+  "products": [
+    {
+      "id": "P10000",
+      "title": "Apple Staff Air",
+      "description": "Later fall what understand political score protect.",
+      "price": 139907,
+      "discountPrice": 125944,
+      "currency": "INR",
+      "stock": 67,
+      "category": {
+        "main": "Mobiles",
+        "sub": "Smartphones",
+        "brand": "Apple"
+      },
+      "images": [
+        "https://placekitten.com/829/911",
+        "https://placekitten.com/813/213"
+      ],
+      "ratings": {
+        "average": 3.7,
+        "count": 1214
+      },
+      "variants": [
+        {
+          "color": "White",
+          "storage": "1TB",
+          "ram": "12GB"
+        },
+        {
+          "color": "Green",
+          "storage": "1TB",
+          "ram": "8GB"
+        }
+      ],
+      "specifications": {
+        "display": "13.9 inch",
+        "battery": "4015 mAh",
+        "processor": "Ryzen 5",
+        "os": "Android"
+      },
+      "seller": {
+        "id": "S17123",
+        "name": "Apple Official Store",
+        "rating": 4.0
+      },
+      "delivery": {
+        "estimatedDays": "4-10",
+        "freeShipping": false
+      },
+      "isReturnable": true,
+      "tags": [
+        "new",
+        "lightweight",
+        "discount"
+      ]
+    },
+    {
+      "id": "P10001",
+      "title": "Dell Well Ultra",
+      "description": "Animal nothing speech approach health wonder price.",
+      "price": 136271,
+      "discountPrice": 102545,
+      "currency": "INR",
+      "stock": 18,
+      "category": {
+        "main": "Electronics",
+        "sub": "Laptops",
+        "brand": "Dell"
+      },
+      "images": [
+        "https://placeimg.com/65/47/any",
+        "https://dummyimage.com/1x351"
+      ],
+      "ratings": {
+        "average": 4.3,
+        "count": 1593
+      },
+      "variants": [
+        {
+          "color": "Blue",
+          "storage": "256GB",
+          "ram": "4GB"
+        },
+        {
+          "color": "Black",
+          "storage": "256GB",
+          "ram": "16GB"
+        }
+      ],
+      "specifications": {
+        "display": "13.5 inch",
+        "battery": "Up to 12 hours",
+        "processor": "Ryzen 5",
+        "os": "Windows 11"
+      },
+      "seller": {
+        "id": "S71002",
+        "name": "Dell Official Store",
+        "rating": 4.9
+      },
+      "delivery": {
+        "estimatedDays": "2-10",
+        "freeShipping": true
+      },
+      "isReturnable": true,
+      "tags": [
+        "new",
+        "5G",
+        "discount"
+      ]
+    },
+    {
+      "id": "P10002",
+      "title": "HP We Air",
+      "description": "Parent close imagine see add total myself spend reduce hundred early even why.",
+      "price": 115003,
+      "discountPrice": 80695,
+      "currency": "INR",
+      "stock": 85,
+      "category": {
+        "main": "Electronics",
+        "sub": "Laptops",
+        "brand": "HP"
+      },
+      "images": [
+        "https://placekitten.com/852/402",
+        "https://placeimg.com/809/602/any"
+      ],
+      "ratings": {
+        "average": 4.2,
+        "count": 913
+      },
+      "variants": [
+        {
+          "color": "Silver",
+          "storage": "512GB",
+          "ram": "16GB"
+        },
+        {
+          "color": "White",
+          "storage": "256GB",
+          "ram": "8GB"
+        }
+      ],
+      "specifications": {
+        "display": "7.9 inch",
+        "battery": "Up to 12 hours",
+        "processor": "Ryzen 5",
+        "os": "Windows 11"
+      },
+      "seller": {
+        "id": "S78953",
+        "name": "HP Official Store",
+        "rating": 4.0
+      },
+      "delivery": {
+        "estimatedDays": "5-7",
+        "freeShipping": false
+      },
+      "isReturnable": true,
+      "tags": [
+        "new",
+        "premium",
+        "trending"
+      ]
+    },
+    {
+      "id": "P10003",
+      "title": "Nike Care Air",
+      "description": "Per training within rather enjoy local against.",
+      "price": 52133,
+      "discountPrice": 47212,
+      "currency": "INR",
+      "stock": 98,
+      "category": {
+        "main": "Footwear",
+        "sub": "Men",
+        "brand": "Nike"
+      },
+      "images": [
+        "https://www.lorempixel.com/191/334",
+        "https://placeimg.com/93/45/any"
+      ],
+      "ratings": {
+        "average": 4.4,
+        "count": 327
+      },
+      "variants": [
+        {
+          "color": "Silver",
+          "size": "8"
+        },
+        {
+          "color": "Gold",
+          "size": "6"
+        }
+      ],
+      "specifications": {
+        "material": "Mesh",
+        "sole": "Air Cushion",
+        "occasion": "Running"
+      },
+      "seller": {
+        "id": "S26623",
+        "name": "Nike Official Store",
+        "rating": 4.3
+      },
+      "delivery": {
+        "estimatedDays": "4-10",
+        "freeShipping": false
+      },
+      "isReturnable": false,
+      "tags": [
+        "trending",
+        "bestseller",
+        "new"
+      ]
+    },
+    {
+      "id": "P10004",
+      "title": "Samsung Difference Air",
+      "description": "Doctor degree sign picture option hand democratic contain matter either will mother.",
+      "price": 32095,
+      "discountPrice": 26018,
+      "currency": "INR",
+      "stock": 46,
+      "category": {
+        "main": "Mobiles",
+        "sub": "Smartphones",
+        "brand": "Samsung"
+      },
+      "images": [
+        "https://placekitten.com/934/485",
+        "https://placekitten.com/901/780"
+      ],
+      "ratings": {
+        "average": 3.6,
+        "count": 1234
+      },
+      "variants": [
+        {
+          "color": "Green",
+          "storage": "256GB",
+          "ram": "4GB"
+        },
+        {
+          "color": "White",
+          "storage": "64GB",
+          "ram": "4GB"
+        }
+      ],
+      "specifications": {
+        "display": "13.2 inch",
+        "battery": "3919 mAh",
+        "processor": "Intel i7",
+        "os": "Android"
+      },
+      "seller": {
+        "id": "S22844",
+        "name": "Samsung Official Store",
+        "rating": 4.5
+      },
+      "delivery": {
+        "estimatedDays": "4-7",
+        "freeShipping": false
+      },
+      "isReturnable": false,
+      "tags": [
+        "new",
+        "trending",
+        "discount"
+      ]
+    },
+    {
+      "id": "P10005",
+      "title": "Adidas Well Air",
+      "description": "Alone cold develop employee within available hotel general leave pay up.",
+      "price": 42580,
+      "discountPrice": 36230,
+      "currency": "INR",
+      "stock": 19,
+      "category": {
+        "main": "Footwear",
+        "sub": "Women",
+        "brand": "Adidas"
+      },
+      "images": [
+        "https://placekitten.com/758/133",
+        "https://dummyimage.com/825x214"
+      ],
+      "ratings": {
+        "average": 4.0,
+        "count": 863
+      },
+      "variants": [
+        {
+          "color": "White",
+          "size": "9"
+        },
+        {
+          "color": "Black",
+          "size": "7"
+        }
+      ],
+      "specifications": {
+        "material": "Mesh",
+        "sole": "Rubber",
+        "occasion": "Formal"
+      },
+      "seller": {
+        "id": "S53167",
+        "name": "Adidas Official Store",
+        "rating": 5.0
+      },
+      "delivery": {
+        "estimatedDays": "2-10",
+        "freeShipping": true
+      },
+      "isReturnable": true,
+      "tags": [
+        "new",
+        "trending",
+        "5G"
+      ]
+    },
+    {
+      "id": "P10006",
+      "title": "Nike Prepare Max",
+      "description": "Station together various describe girl make employee.",
+      "price": 128981,
+      "discountPrice": 102219,
+      "currency": "INR",
+      "stock": 40,
+      "category": {
+        "main": "Footwear",
+        "sub": "Men",
+        "brand": "Nike"
+      },
+      "images": [
+        "https://www.lorempixel.com/18/525",
+        "https://dummyimage.com/406x206"
+      ],
+      "ratings": {
+        "average": 4.3,
+        "count": 1683
+      },
+      "variants": [
+        {
+          "color": "Blue",
+          "size": "11"
+        },
+        {
+          "color": "Green",
+          "size": "6"
+        }
+      ],
+      "specifications": {
+        "material": "Mesh",
+        "sole": "Rubber",
+        "occasion": "Formal"
+      },
+      "seller": {
+        "id": "S98544",
+        "name": "Nike Official Store",
+        "rating": 4.5
+      },
+      "delivery": {
+        "estimatedDays": "2-8",
+        "freeShipping": false
+      },
+      "isReturnable": false,
+      "tags": [
+        "lightweight",
+        "5G",
+        "new"
+      ]
+    },
+    {
+      "id": "P10007",
+      "title": "Samsung Night X",
+      "description": "News whatever sort throw skill forward ok think as.",
+      "price": 55374,
+      "discountPrice": 46438,
+      "currency": "INR",
+      "stock": 70,
+      "category": {
+        "main": "Mobiles",
+        "sub": "Smartphones",
+        "brand": "Samsung"
+      },
+      "images": [
+        "https://placekitten.com/486/389",
+        "https://www.lorempixel.com/1017/814"
+      ],
+      "ratings": {
+        "average": 3.8,
+        "count": 632
+      },
+      "variants": [
+        {
+          "color": "Green",
+          "storage": "1TB",
+          "ram": "12GB"
+        },
+        {
+          "color": "Gold",
+          "storage": "128GB",
+          "ram": "8GB"
+        }
+      ],
+      "specifications": {
+        "display": "8.4 inch",
+        "battery": "4809 mAh",
+        "processor": "Ryzen 5",
+        "os": "Android"
+      },
+      "seller": {
+        "id": "S37200",
+        "name": "Samsung Official Store",
+        "rating": 4.8
+      },
+      "delivery": {
+        "estimatedDays": "4-8",
+        "freeShipping": true
+      },
+      "isReturnable": true,
+      "tags": [
+        "premium",
+        "5G",
+        "trending"
+      ]
+    },
+    {
+      "id": "P10008",
+      "title": "Samsung Fear Pro",
+      "description": "Fall stand material always describe artist want window issue employee.",
+      "price": 84537,
+      "discountPrice": 66293,
+      "currency": "INR",
+      "stock": 60,
+      "category": {
+        "main": "Mobiles",
+        "sub": "Smartphones",
+        "brand": "Samsung"
+      },
+      "images": [
+        "https://www.lorempixel.com/569/561",
+        "https://dummyimage.com/1024x351"
+      ],
+      "ratings": {
+        "average": 3.8,
+        "count": 1379
+      },
+      "variants": [
+        {
+          "color": "Green",
+          "storage": "256GB",
+          "ram": "12GB"
+        },
+        {
+          "color": "Black",
+          "storage": "64GB",
+          "ram": "12GB"
+        }
+      ],
+      "specifications": {
+        "display": "8.0 inch",
+        "battery": "4360 mAh",
+        "processor": "Ryzen 5",
+        "os": "Android"
+      },
+      "seller": {
+        "id": "S62450",
+        "name": "Samsung Official Store",
+        "rating": 5.0
+      },
+      "delivery": {
+        "estimatedDays": "6-9",
+        "freeShipping": false
+      },
+      "isReturnable": true,
+      "tags": [
+        "lightweight",
+        "premium",
+        "trending"
+      ]
+    },
+    {
+      "id": "P10009",
+      "title": "HP Spring Max",
+      "description": "Task red painting pull improve camera administration lay available.",
+      "price": 70080,
+      "discountPrice": 63846,
+      "currency": "INR",
+      "stock": 14,
+      "category": {
+        "main": "Electronics",
+        "sub": "Laptops",
+        "brand": "HP"
+      },
+      "images": [
+        "https://placeimg.com/326/439/any",
+        "https://placeimg.com/25/971/any"
+      ],
+      "ratings": {
+        "average": 3.9,
+        "count": 1570
+      },
+      "variants": [
+        {
+          "color": "Blue",
+          "storage": "128GB",
+          "ram": "12GB"
+        },
+        {
+          "color": "Black",
+          "storage": "64GB",
+          "ram": "4GB"
+        }
+      ],
+      "specifications": {
+        "display": "12.7 inch",
+        "battery": "Up to 12 hours",
+        "processor": "Ryzen 5",
+        "os": "Windows 11"
+      },
+      "seller": {
+        "id": "S43818",
+        "name": "HP Official Store",
+        "rating": 4.4
+      },
+      "delivery": {
+        "estimatedDays": "6-9",
+        "freeShipping": true
+      },
+      "isReturnable": false,
+      "tags": [
+        "lightweight",
+        "5G",
+        "trending"
+      ]
+    },
+    {
+      "id": "P10010",
+      "title": "Adidas General Pro",
+      "description": "Wrong dog yourself serve air case born.",
+      "price": 32071,
+      "discountPrice": 27377,
+      "currency": "INR",
+      "stock": 23,
+      "category": {
+        "main": "Footwear",
+        "sub": "Women",
+        "brand": "Adidas"
+      },
+      "images": [
+        "https://www.lorempixel.com/523/119",
+        "https://placeimg.com/772/988/any"
+      ],
+      "ratings": {
+        "average": 5.0,
+        "count": 1919
+      },
+      "variants": [
+        {
+          "color": "Gold",
+          "size": "8"
+        },
+        {
+          "color": "Black",
+          "size": "10"
+        }
+      ],
+      "specifications": {
+        "material": "Mesh",
+        "sole": "Air Cushion",
+        "occasion": "Casual"
+      },
+      "seller": {
+        "id": "S51381",
+        "name": "Adidas Official Store",
+        "rating": 4.9
+      },
+      "delivery": {
+        "estimatedDays": "4-9",
+        "freeShipping": true
+      },
+      "isReturnable": true,
+      "tags": [
+        "bestseller",
+        "discount",
+        "lightweight"
+      ]
+    },
+    {
+      "id": "P10011",
+      "title": "Adidas Public Max",
+      "description": "Social rock question authority once magazine provide player full.",
+      "price": 56679,
+      "discountPrice": 48407,
+      "currency": "INR",
+      "stock": 61,
+      "category": {
+        "main": "Footwear",
+        "sub": "Women",
+        "brand": "Adidas"
+      },
+      "images": [
+        "https://placekitten.com/396/918",
+        "https://www.lorempixel.com/689/343"
+      ],
+      "ratings": {
+        "average": 3.9,
+        "count": 1806
+      },
+      "variants": [
+        {
+          "color": "Silver",
+          "size": "11"
+        },
+        {
+          "color": "Blue",
+          "size": "8"
+        }
+      ],
+      "specifications": {
+        "material": "Mesh",
+        "sole": "Rubber",
+        "occasion": "Casual"
+      },
+      "seller": {
+        "id": "S42703",
+        "name": "Adidas Official Store",
+        "rating": 4.1
+      },
+      "delivery": {
+        "estimatedDays": "5-7",
+        "freeShipping": true
+      },
+      "isReturnable": true,
+      "tags": [
+        "bestseller",
+        "lightweight",
+        "discount"
+      ]
+    },
+    {
+      "id": "P10012",
+      "title": "Apple Fly Pro",
+      "description": "Opportunity wear course ok just maybe race firm could leader analysis issue surface.",
+      "price": 72842,
+      "discountPrice": 65871,
+      "currency": "INR",
+      "stock": 39,
+      "category": {
+        "main": "Mobiles",
+        "sub": "Smartphones",
+        "brand": "Apple"
+      },
+      "images": [
+        "https://placeimg.com/560/693/any",
+        "https://dummyimage.com/314x84"
+      ],
+      "ratings": {
+        "average": 4.2,
+        "count": 671
+      },
+      "variants": [
+        {
+          "color": "Red",
+          "storage": "512GB",
+          "ram": "16GB"
+        },
+        {
+          "color": "Gold",
+          "storage": "128GB",
+          "ram": "4GB"
+        }
+      ],
+      "specifications": {
+        "display": "13.0 inch",
+        "battery": "5822 mAh",
+        "processor": "Intel i7",
+        "os": "Android"
+      },
+      "seller": {
+        "id": "S25942",
+        "name": "Apple Official Store",
+        "rating": 4.9
+      },
+      "delivery": {
+        "estimatedDays": "3-7",
+        "freeShipping": false
+      },
+      "isReturnable": false,
+      "tags": [
+        "discount",
+        "trending",
+        "5G"
+      ]
+    },
+    {
+      "id": "P10013",
+      "title": "Apple Attorney Ultra",
+      "description": "So note miss current truth project election hear cover form tough memory.",
+      "price": 29203,
+      "discountPrice": 21070,
+      "currency": "INR",
+      "stock": 26,
+      "category": {
+        "main": "Mobiles",
+        "sub": "Smartphones",
+        "brand": "Apple"
+      },
+      "images": [
+        "https://dummyimage.com/14x484",
+        "https://placeimg.com/822/1/any"
+      ],
+      "ratings": {
+        "average": 3.7,
+        "count": 267
+      },
+      "variants": [
+        {
+          "color": "Green",
+          "storage": "1TB",
+          "ram": "16GB"
+        },
+        {
+          "color": "Black",
+          "storage": "256GB",
+          "ram": "16GB"
+        }
+      ],
+      "specifications": {
+        "display": "15.6 inch",
+        "battery": "3491 mAh",
+        "processor": "Ryzen 5",
+        "os": "Android"
+      },
+      "seller": {
+        "id": "S55297",
+        "name": "Apple Official Store",
+        "rating": 4.1
+      },
+      "delivery": {
+        "estimatedDays": "5-10",
+        "freeShipping": true
+      },
+      "isReturnable": true,
+      "tags": [
+        "5G",
+        "discount",
+        "trending"
+      ]
+    },
+    {
+      "id": "P10014",
+      "title": "Samsung Worry Pro",
+      "description": "Look when late beautiful institution budget great until during arm.",
+      "price": 55548,
+      "discountPrice": 47983,
+      "currency": "INR",
+      "stock": 40,
+      "category": {
+        "main": "Mobiles",
+        "sub": "Smartphones",
+        "brand": "Samsung"
+      },
+      "images": [
+        "https://placekitten.com/856/393",
+        "https://placekitten.com/244/995"
+      ],
+      "ratings": {
+        "average": 4.8,
+        "count": 560
+      },
+      "variants": [
+        {
+          "color": "Green",
+          "storage": "64GB",
+          "ram": "12GB"
+        },
+        {
+          "color": "Gold",
+          "storage": "64GB",
+          "ram": "12GB"
+        }
+      ],
+      "specifications": {
+        "display": "6.6 inch",
+        "battery": "5640 mAh",
+        "processor": "Apple M2",
+        "os": "Android"
+      },
+      "seller": {
+        "id": "S42253",
+        "name": "Samsung Official Store",
+        "rating": 4.2
+      },
+      "delivery": {
+        "estimatedDays": "5-9",
+        "freeShipping": true
+      },
+      "isReturnable": true,
+      "tags": [
+        "new",
+        "bestseller",
+        "lightweight"
+      ]
+    },
+    {
+      "id": "P10015",
+      "title": "Dell Million X",
+      "description": "Such certainly leader responsibility crime conference matter special billion.",
+      "price": 121334,
+      "discountPrice": 85642,
+      "currency": "INR",
+      "stock": 66,
+      "category": {
+        "main": "Electronics",
+        "sub": "Laptops",
+        "brand": "Dell"
+      },
+      "images": [
+        "https://www.lorempixel.com/1000/412",
+        "https://www.lorempixel.com/668/80"
+      ],
+      "ratings": {
+        "average": 3.7,
+        "count": 664
+      },
+      "variants": [
+        {
+          "color": "Gold",
+          "storage": "128GB",
+          "ram": "4GB"
+        },
+        {
+          "color": "White",
+          "storage": "512GB",
+          "ram": "4GB"
+        }
+      ],
+      "specifications": {
+        "display": "8.4 inch",
+        "battery": "Up to 12 hours",
+        "processor": "Apple M2",
+        "os": "Windows 11"
+      },
+      "seller": {
+        "id": "S64744",
+        "name": "Dell Official Store",
+        "rating": 4.4
+      },
+      "delivery": {
+        "estimatedDays": "6-7",
+        "freeShipping": true
+      },
+      "isReturnable": false,
+      "tags": [
+        "trending",
+        "bestseller",
+        "new"
+      ]
+    },
+    {
+      "id": "P10016",
+      "title": "Dell Notice Max",
+      "description": "Color state father necessary throw everybody herself democratic which.",
+      "price": 47658,
+      "discountPrice": 43822,
+      "currency": "INR",
+      "stock": 40,
+      "category": {
+        "main": "Electronics",
+        "sub": "Laptops",
+        "brand": "Dell"
+      },
+      "images": [
+        "https://dummyimage.com/999x1001",
+        "https://placeimg.com/121/933/any"
+      ],
+      "ratings": {
+        "average": 4.0,
+        "count": 415
+      },
+      "variants": [
+        {
+          "color": "White",
+          "storage": "64GB",
+          "ram": "16GB"
+        },
+        {
+          "color": "Red",
+          "storage": "128GB",
+          "ram": "8GB"
+        }
+      ],
+      "specifications": {
+        "display": "6.2 inch",
+        "battery": "Up to 12 hours",
+        "processor": "Intel i7",
+        "os": "Windows 11"
+      },
+      "seller": {
+        "id": "S44846",
+        "name": "Dell Official Store",
+        "rating": 4.8
+      },
+      "delivery": {
+        "estimatedDays": "5-9",
+        "freeShipping": false
+      },
+      "isReturnable": true,
+      "tags": [
+        "premium",
+        "5G",
+        "trending"
+      ]
+    },
+    {
+      "id": "P10017",
+      "title": "Dell Away Pro",
+      "description": "Serious people too lawyer way choose get face next reduce manage film hand.",
+      "price": 34256,
+      "discountPrice": 32385,
+      "currency": "INR",
+      "stock": 57,
+      "category": {
+        "main": "Electronics",
+        "sub": "Laptops",
+        "brand": "Dell"
+      },
+      "images": [
+        "https://placeimg.com/175/533/any",
+        "https://placeimg.com/770/288/any"
+      ],
+      "ratings": {
+        "average": 4.2,
+        "count": 919
+      },
+      "variants": [
+        {
+          "color": "Black",
+          "storage": "512GB",
+          "ram": "16GB"
+        },
+        {
+          "color": "Red",
+          "storage": "512GB",
+          "ram": "16GB"
+        }
+      ],
+      "specifications": {
+        "display": "13.8 inch",
+        "battery": "Up to 12 hours",
+        "processor": "Snapdragon 8 Gen 2",
+        "os": "Windows 11"
+      },
+      "seller": {
+        "id": "S13431",
+        "name": "Dell Official Store",
+        "rating": 4.9
+      },
+      "delivery": {
+        "estimatedDays": "3-8",
+        "freeShipping": true
+      },
+      "isReturnable": true,
+      "tags": [
+        "new",
+        "discount",
+        "trending"
+      ]
+    },
+    {
+      "id": "P10018",
+      "title": "Nike Practice X",
+      "description": "Without at save side new action fear image food leave participant still.",
+      "price": 118088,
+      "discountPrice": 100414,
+      "currency": "INR",
+      "stock": 83,
+      "category": {
+        "main": "Footwear",
+        "sub": "Men",
+        "brand": "Nike"
+      },
+      "images": [
+        "https://dummyimage.com/252x542",
+        "https://placeimg.com/844/861/any"
+      ],
+      "ratings": {
+        "average": 3.5,
+        "count": 1477
+      },
+      "variants": [
+        {
+          "color": "Green",
+          "size": "9"
+        },
+        {
+          "color": "Green",
+          "size": "9"
+        }
+      ],
+      "specifications": {
+        "material": "Leather",
+        "sole": "Air Cushion",
+        "occasion": "Casual"
+      },
+      "seller": {
+        "id": "S92937",
+        "name": "Nike Official Store",
+        "rating": 4.5
+      },
+      "delivery": {
+        "estimatedDays": "3-9",
+        "freeShipping": false
+      },
+      "isReturnable": false,
+      "tags": [
+        "lightweight",
+        "premium",
+        "new"
+      ]
+    },
+    {
+      "id": "P10019",
+      "title": "Adidas East Air",
+      "description": "Policy staff movie type deal opportunity environmental board night.",
+      "price": 21684,
+      "discountPrice": 15296,
+      "currency": "INR",
+      "stock": 76,
+      "category": {
+        "main": "Footwear",
+        "sub": "Women",
+        "brand": "Adidas"
+      },
+      "images": [
+        "https://dummyimage.com/344x911",
+        "https://dummyimage.com/281x499"
+      ],
+      "ratings": {
+        "average": 4.7,
+        "count": 1243
+      },
+      "variants": [
+        {
+          "color": "White",
+          "size": "8"
+        },
+        {
+          "color": "Red",
+          "size": "11"
+        }
+      ],
+      "specifications": {
+        "material": "Leather",
+        "sole": "Air Cushion",
+        "occasion": "Formal"
+      },
+      "seller": {
+        "id": "S90432",
+        "name": "Adidas Official Store",
+        "rating": 4.8
+      },
+      "delivery": {
+        "estimatedDays": "3-10",
+        "freeShipping": false
+      },
+      "isReturnable": false,
+      "tags": [
+        "trending",
+        "5G",
+        "lightweight"
+      ]
+    }
+  ]
+}

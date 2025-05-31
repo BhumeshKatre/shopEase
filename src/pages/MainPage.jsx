@@ -8,8 +8,8 @@ import ElectronicsProducts from "../constants/product_data.json";
 import FashionProducts from "../constants/fashion_products.json";
 
 import ProductList from "../components/ProductList";
-import Footer from "../components/Footer";
 import OfferCards from "../components/OfferCards";
+
 
 const MainPage = () => {
   return (

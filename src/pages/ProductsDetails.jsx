@@ -1,13 +1,11 @@
-import React from "react";
-
+import React from 'react';
+import ProductsDetailsComp from '../components/ProductDetails/ProductDeatils'
 const ProductsDetails = () => {
   return (
-    <>
-      <div>
-        
+    <div>
+      <ProductsDetailsComp />
     </div>
-    </>
   );
-};
+}
 
 export default ProductsDetails;

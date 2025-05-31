@@ -10,7 +10,7 @@ const MainPageLayout = () => {
       <main className="w-screen">
         <Outlet />
       </main>
-      <Footer />
+      {/* <Footer /> */}
     </>
   );
 };
