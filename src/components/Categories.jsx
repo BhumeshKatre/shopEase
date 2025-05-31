@@ -57,12 +57,13 @@ export const mainCategories = [
 const Categories = () => {
   return (
     <div
-    className=' p-4 px-8  w-full   '>
+    className='hidden md:block p-4 px-8  w-full   '>
       <div
-        className='flex px-8 p-8 rounded-lg  bg-indigo-50 '>
+        className='flex px-8 p-8 rounded-lg  bg-white '>
 
         <ul
-        className='flex justify-between items-center gap-4 w-full px-8  '>
+      className="grid grid-cols-2 sm:grid-cols-4 md:grid-cols-8 gap-4  px-4 bg-white justify-center">
+
           {
             mainCategories.map((category, index) => (
               <Link

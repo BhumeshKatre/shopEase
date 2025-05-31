@@ -48,11 +48,13 @@ const fashionCategories = [
 
 const FashionCategoryList = () => {
   return (
-     <div className="grid grid-cols-2 sm:grid-cols-4 md:grid-cols-7 gap-8 p-8 px-4 bg-white">
+    <section className="p-4 ">
+
+     <div className="grid grid-cols-1 sm:grid-cols-4 md:grid-cols-7 gap-4 p-8 px-4 bg-white">
       {fashionCategories.map((item, idx) => (
         <Link
           key={idx}
-          href={item.link}
+          to={item.link}
           className="flex flex-col items-center text-center "
         >
           <div className="w-32 h-32 bg-pink-50 rounded-t-full flex items-center justify-center px-4 mb-2">
@@ -61,8 +63,9 @@ const FashionCategoryList = () => {
           <span className="text-sm text-gray-700">{item.label}</span>
         </Link>
       ))}
-    </div>
-  );
+      </div>
+    </section>
+      );
   };
  
 export default FashionCategoryList;

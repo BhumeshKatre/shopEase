@@ -35,10 +35,10 @@ const Navbar = () => {
  
   return (
     <header className="bg-white shadow sticky top-0 ">
-      <nav className="bg-white dark:bg-dark dark:teext-white p-1 px-8 flex justify-between  items-center ">
+      <nav className="bg-white dark:bg-dark dark:teext-white p-1 md:px-8 px-2 flex justify-between  items-center ">
         <div className="flex gap-3 px-3 items-center ">
-          <img src={Logo} alt="ShopEase" className="h-16" />
-          <div className="border border-gray-300 bg-blue-100 rounded-md  flex gap-3 p-2 w-[400px] items-center ">
+          <img src={Logo} alt="ShopEase" className="md:h-16 h-10" />
+          <div className="hidden border border-gray-300 bg-blue-100 rounded-md  md:flex gap-3 p-2 w-[400px] items-center ">
             <FaSearch />
             <input
               type="text"
@@ -50,7 +50,7 @@ const Navbar = () => {
 
         <div className="flex gap-4 items-center ">
           <div className="flex gap-2 border-r p-2 items-center  relative group hover:bg-blue-500 transition-all duration-300 hover:rounded-lg">
-            <CgProfile className="text-2xl cursor-pointer" /> Login{" "}
+            <CgProfile className="md:text-2xl cursor-pointer" /> <span className="hidden md:block">Login</span>
             <MdKeyboardArrowDown />
 
             {/* Login box appears on hover */}
@@ -78,11 +78,11 @@ const Navbar = () => {
           </div>
 
           <button className="flex gap-2 border-r p-2 items-center ">
-            <FaCartShopping className="text-2xl cursor-pointer" /> My Cart
+            <FaCartShopping className="md:text-2xl cursor-pointer" /><span className="hidden md:block">Cart</span>
           </button>
 
           <div className="relative group">
-            <CiMenuKebab className="text-2xl cursor-pointer  " />
+            <CiMenuKebab className="md:text-2xl cursor-pointer  " />
 
             <div className=" bg-white  absolute right-2 top-4 shadow shadow-blue-300  w-64 group-hover:block hidden">
               <ul>
